@@ -2,12 +2,13 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Open Sans, sans-serif",
+    title: "Poppins, sans-serif",
     main: "Open Sans, sans-serif"
   },
   // Colors for layout
   colors: {
     primary1: "#00629b",
+    primary2: "#002e5b",
     background1: "#FFFFFF",
   },
   // Breakpoints for responsive design

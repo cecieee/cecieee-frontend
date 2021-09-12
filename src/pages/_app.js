@@ -8,6 +8,7 @@ export default function App({ Component, pageProps }) {
         <meta name="description" content="IEEE Student Branch of College of Engineering Chengannur" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      
       <Theme>
         <Component {...pageProps} />
       </Theme>
