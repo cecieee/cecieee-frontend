@@ -10,7 +10,7 @@ export default function About() {
       <TopHeader/>
       <Header/>
         <Heading1>
-          About Us
+          Event List
           </Heading1>
           <Footer/>
         </Main>
