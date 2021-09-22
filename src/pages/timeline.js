@@ -1,8 +1,9 @@
-import { Container, Main, Heading1} from '../styles/HomeStyles';
+import { Container, Main, } from '../styles/HomeStyles';
 import TopHeader from '../components/TopHeader/TopHeader';
 import Header from '../components/Header/Header';
-import Testimonials from '../components/Testimonials/Testimonials';
+
 import Footer from './../components/Footer/Footer';
+import Timeline from './../components/Timeline/Timeline';
 
 export default function Home() {
   return (
@@ -10,10 +11,7 @@ export default function Home() {
       <Main>
         <TopHeader/>
         <Header/>
-        <Heading1>
-            Testimonials
-          </Heading1>
-          <Testimonials/>
+          <Timeline/>
           <Footer/>
           
         </Main>

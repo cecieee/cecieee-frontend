@@ -3,9 +3,14 @@ import styled from 'styled-components';
 export const Container = styled.div`
 
   background-color: ${props => props.theme.colors.primary2};
-  height:24em;
+  
   display: flex;
   flex-direction: row;
+  
+  @media ${(props) => props.theme.breakpoints.sm} {
+    flex-direction: column;
+    
+  }
 `;
 
 
@@ -23,6 +28,7 @@ margin-bottom:4em;
     margin-left:0rem;
     align-items: left;
     padding:0.4rem 2.2rem;
+    width:22em;
     
   }
 `;
@@ -42,7 +48,7 @@ margin-bottom:4em;
     margin-left:0rem;
     align-items: left;
     padding:0.4rem 2.2rem;
-    
+    width:20em;
   }
 `;
 
@@ -66,6 +72,9 @@ export const Paragraph = styled.p`
   color: white;
   line-height: 22px;
   font-size: 13px;
+  @media ${(props) => props.theme.breakpoints.sm}{
+
+  }
 `
 
 export const Heading4 = styled.h4`

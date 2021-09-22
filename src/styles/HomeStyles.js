@@ -1,11 +1,9 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  height: 100vh;
+  max-height: 100vh;
 `;
 
 
@@ -17,7 +15,11 @@ export const Main = styled.main`
 
 
 export const Heading1 = styled.h1`
-  margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
+  text-align: center;
+  font-family: ${props => props.theme.fonts.title};
+  font-weight: 700;
+  margin-top:0.67em;
+  margin-bottom:0.5em;
+  font-size:2.8em;
+  color:${props => props.theme.colors.primary2};
 `

@@ -64,6 +64,7 @@ export const NavLink = styled.a`
     padding: 0.5rem;
     font-size:12px;
     line-height: 26px;
+    color: ${({ active }) => active ? '#FDE428' : '#FFFFFF'};
     
   }
 `;
