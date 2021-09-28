@@ -7,6 +7,7 @@ const Timeline = () => (
         <BlueHorizontal><div/></BlueHorizontal>
         <Paragraph>A glimpse of all splendid events by IEEE Student Branch of College of Engineering Chengannur.</Paragraph>
         
+        <DataLine year='2021' title="IEEE Special Interest Group on Humanitarian Technology College of Engineering Chengannur has received funding from R10 HAC for the project 'RoboSight-Assisting Robot'" />
         <DataLine year='2020' title="CS ISQIP’19 has been awarded IEEE MGA Darrel Chong Student Activity Award 2020 in Gold Category" />
         <DataLine year='2020' title="IEEE Student Branch College of Engineering Chengannur has been awarded R10 Exemplary Student Branch Award 2020" />
         <DataLine year='2020' title="IEEE Power & Energy Society Student Branch Chapter College of Engineering Chengannur has been ranked 19th globally in IEEE PES High Performing Student Branch Chapter Programme" />
