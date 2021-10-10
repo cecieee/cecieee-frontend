@@ -32,7 +32,7 @@ const Layout = styled.div`
 
     @media ${(props) => props.theme.breakpoints.sm} {
         grid-template-columns: 1fr;
-        margin: 0;
+        margin: 20px 0;
     }
 `;
 
