@@ -14,12 +14,13 @@ function Counter({name,count}) {
 export default Counter;
 
 const CounterSection = styled.div`
+    background-color: ${props => props.theme.colors.primary1};
     display:flex;
     flex-direction:column;
-    align-items:left;
+    align-items:center;
     justify-content:start;
     padding: 1em;
-    margin 0 2em 0 0;
+    margin 2em;
 
     @media ${(props) => props.theme.breakpoints.sm} {
         align-items:center;
