@@ -5,6 +5,7 @@ import About from '../components/About';
 import { Slider } from '../components/Slider';
 import Testimonials from '../components/Testimonials/Testimonials';
 import Footer from './../components/Footer/Footer';
+import Ieeefamily from '../components/Ieeefamily/Ieeefamily';
 
 export default function Home() {
   return (
@@ -14,6 +15,8 @@ export default function Home() {
         <Slider />
         <VisionMision/>
           <About/>
+          <Heading1>Our IEEE family</Heading1>
+          <Ieeefamily />
         <Heading1>
             Testimonials
           </Heading1>
