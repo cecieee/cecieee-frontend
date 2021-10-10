@@ -20,8 +20,8 @@ const Section = styled.section`
     background-attachment: fixed;
     display:flex;
     flex-direction:column;
-    align-items:start;
-    padding : 5em 15em;
+    align-items:center;
+    padding : 5em ;
     justify-content:center;
 
     @media ${(props) => props.theme.breakpoints.sm} {
@@ -38,6 +38,7 @@ const Title = styled.h1`
   color: #fde428;
   font-family: poppins;
   margin: 2.5rem 0;
+  text-align:center;
 
   @media ${(props) => props.theme.breakpoints.sm} {
     text-align:center;
