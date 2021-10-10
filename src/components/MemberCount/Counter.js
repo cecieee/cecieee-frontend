@@ -1,10 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
+import CountUp from 'react-countup';
 
 function Counter({name,count}) {
     return (
         <CounterSection>
-            <Count>{count}</Count>
+            <Count><CountUp end={count} duration={7} useEasing={true}/></Count>
             <Name>{name}</Name>           
         </CounterSection>
     )
