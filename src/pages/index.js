@@ -1,6 +1,5 @@
 import { Container, Main, Heading1} from '../styles/HomeStyles';
-import TopHeader from '../components/TopHeader/TopHeader';
-import Header from '../components/Header/Header';
+import FixedHeader from '../components/FixedHeader'
 import VisionMision from './../components/VisionMision';
 import About from '../components/About';
 import { Slider } from '../components/Slider';
@@ -12,8 +11,7 @@ export default function Home() {
   return (
     <Container>
       <Main>
-        <TopHeader/>
-        <Header/>
+        <FixedHeader/>
         <Slider />
         <VisionMision/>
           <About/>
