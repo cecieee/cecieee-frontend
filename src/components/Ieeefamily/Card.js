@@ -19,9 +19,13 @@ const SocietyCard = styled.div`
     align-items:center;
     justify-content:center;
     transition: all .4s ease-in-out;
+    overflow:hidden;
     padding :0px 10px;
     &:hover {
         transform: scale(1.1);
+    }
+
+    @media ${(props) => props.theme.breakpoints.md} {
     }
 
 `;

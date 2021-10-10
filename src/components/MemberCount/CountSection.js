@@ -5,8 +5,8 @@ import Counter from './Counter';
 function CountSection() {
     return (
         <CountContainer>
-            <Counter name= "Total Members" count="600"/>
-            <Counter name= "Events" count="100"/>
+            <Counter name= "Total Members" count="373"/>
+            <Counter name= "Events per year" count="120"/>
             <Counter name= "Awards Won" count="27"/>
         </CountContainer>
     )
