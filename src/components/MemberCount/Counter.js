@@ -19,6 +19,11 @@ const CounterSection = styled.div`
     justify-content:start;
     padding: 1em;
     margin 0 2em 0 0;
+
+    @media ${(props) => props.theme.breakpoints.sm} {
+        align-items:center;
+        margin:1em 0;
+      }
 `;
 
 const Count = styled.h2`
@@ -31,7 +36,7 @@ const Count = styled.h2`
 
 const Name = styled.p`
     font-weight: 600;
-    font-size: 14px;
+    font-size: 15px;
     color: #fde428;
     font-family: poppins;
 `;

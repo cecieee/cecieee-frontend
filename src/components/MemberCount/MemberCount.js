@@ -23,6 +23,13 @@ const Section = styled.section`
     align-items:start;
     padding : 5em 15em;
     justify-content:center;
+
+    @media ${(props) => props.theme.breakpoints.sm} {
+        height:auto;
+        margin:0;
+        padding:15px;
+        align-items:center;
+      }
 `;
 
 const Title = styled.h1`
@@ -31,6 +38,11 @@ const Title = styled.h1`
   color: #fde428;
   font-family: poppins;
   margin: 2.5rem 0;
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    text-align:center;
+    margin: 3rem 0;
+  }
 `;
 
 const Mark = styled.span`

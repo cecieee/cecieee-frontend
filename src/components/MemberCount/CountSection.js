@@ -17,4 +17,8 @@ export default CountSection;
 const CountContainer = styled.div`
     display:grid;
     grid-template-columns: repeat(3, 1fr);
+
+    @media ${(props) => props.theme.breakpoints.sm} {
+        grid-template-columns: 1fr;
+      }
 `;
