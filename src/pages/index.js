@@ -6,6 +6,7 @@ import { Slider } from '../components/Slider';
 import Testimonials from '../components/Testimonials/Testimonials';
 import Footer from './../components/Footer/Footer';
 import Ieeefamily from '../components/Ieeefamily/Ieeefamily';
+import MemberCount from '../components/MemberCount/MemberCount';
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
           <About/>
           <Heading1>Our IEEE family</Heading1>
           <Ieeefamily />
+          <MemberCount />
         <Heading1>
             Testimonials
           </Heading1>

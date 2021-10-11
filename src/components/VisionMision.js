@@ -42,8 +42,7 @@ const Header = () => (
         <FetureHead>Vision</FetureHead>
         <FeatureLine />
         <FeatureText>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        IEEE’s core purpose is to foster technological innovation and excellence for the benefit of humanity.
         </FeatureText>
       </Feature>
     </Features>

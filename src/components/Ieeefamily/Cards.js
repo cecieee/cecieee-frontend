@@ -23,10 +23,16 @@ const Layout = styled.div`
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin: 20px 10px;
+    width:100%;
+
+    @media ${(props) => props.theme.breakpoints.md} {
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: 0;
+    }
 
     @media ${(props) => props.theme.breakpoints.sm} {
         grid-template-columns: 1fr;
-        margin:20px 0px;
+        margin: 20px 0;
     }
 `;
 
