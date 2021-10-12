@@ -25,7 +25,10 @@ const SocietyCard = styled.div`
         transform: scale(1.1);
     }
 
-    @media ${(props) => props.theme.breakpoints.md} {
+    @media ${(props) => props.theme.breakpoints.sm} {
+        &:hover {
+            transform: scale(1);
+        }
     }
 
 `;
