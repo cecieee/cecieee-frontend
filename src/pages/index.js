@@ -7,6 +7,7 @@ import Testimonials from '../components/Testimonials/Testimonials';
 import Footer from './../components/Footer/Footer';
 import Ieeefamily from '../components/Ieeefamily/Ieeefamily';
 import MemberCount from '../components/MemberCount/MemberCount';
+import Benifits from '../components/Benifits/Benifits';
 
 export default function Home() {
   return (
@@ -19,7 +20,8 @@ export default function Home() {
           <Heading1>Our IEEE family</Heading1>
           <Ieeefamily />
           <MemberCount />
-        <Heading1>
+          <Benifits />
+          <Heading1>
             Testimonials
           </Heading1>
           <Testimonials/>
