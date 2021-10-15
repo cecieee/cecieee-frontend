@@ -5,7 +5,7 @@ function Card({logo}) {
     return (
         <SocietyCard>
             <a href="">
-                <img src={"../images/society/"+logo+".png"} alt={logo} />
+                <img src={"../images/society/"+logo+".png"} alt={logo} width = "275px"/>
             </a>
             
         </SocietyCard>
