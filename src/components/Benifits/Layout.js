@@ -20,13 +20,15 @@ export default Layout;
 const BenifitsLayout = styled.div`
     display : grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin : 20px 0;
+    margin : 20px 80px;
 
     @media ${(props) => props.theme.breakpoints.md} {
         grid-template-columns: 1fr 1fr;
+        margin : 20px 0px;
     }
 
     @media ${(props) => props.theme.breakpoints.sm} {
         grid-template-columns: 1fr;
+        margin : 20px 0px;
     }
 `;
