@@ -74,4 +74,5 @@ const Text = styled.p`
     font-size : 13px;
     text-align:center;
     margin: 10px 0;
+    line-height : 18px;
 `;
