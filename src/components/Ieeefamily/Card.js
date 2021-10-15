@@ -5,7 +5,7 @@ function Card({logo}) {
     return (
         <SocietyCard>
             <a href="">
-                <img src={"../images/society/"+logo+".png"} alt={logo} />
+                <img src={"../images/society/"+logo+".png"} alt={logo} width = "275px"/>
             </a>
             
         </SocietyCard>
@@ -25,7 +25,10 @@ const SocietyCard = styled.div`
         transform: scale(1.1);
     }
 
-    @media ${(props) => props.theme.breakpoints.md} {
+    @media ${(props) => props.theme.breakpoints.sm} {
+        &:hover {
+            transform: scale(1);
+        }
     }
 
 `;
