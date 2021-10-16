@@ -9,7 +9,7 @@ export const Container = styled.div`
   margin-right:4em;
   @media ${(props) => props.theme.breakpoints.sm} {
     margin:0;
-    padding:0px 1em;
+    padding:0px 1em 2em 1em;
   }
 `;
 
