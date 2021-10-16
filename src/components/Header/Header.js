@@ -5,7 +5,7 @@ import React from 'react';
 import { Container,NavLink, Div1,Div2 } from './HeaderStyles';
 
 // import sbLogo from '../../../public/images/IEEE-SB-logo.png';
-import sbLogo from '../../../public/images/25 year logo_IEEE_SB_CEC.png';
+import sbLogo from '../../../public/images/25_year_logo_IEEE_SB_CEC.png';
 import RightNav from './RightNav'
 import Burger from './Burger';
 
