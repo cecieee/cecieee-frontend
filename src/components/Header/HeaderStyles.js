@@ -6,6 +6,8 @@ export const Container = styled.div`
   box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
   padding: 0 3em;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
   @media ${(props) => props.theme.breakpoints.sm} {
     padding: 0 0.4em;
 }
@@ -34,15 +36,15 @@ export const Container2 = styled.div`
 
 export const Div1 = styled.div`
 
-padding:0.4rem;
-
+padding:0.8rem;
+margin-left:2em;
 @media ${(props) => props.theme.breakpoints.sm} {
-    justify-content: left;
-    margin-left:0rem;
-    align-items: left;
-    padding:0.4rem 2.2rem;
-    width:260px;
-        height:62px;
+    
+    margin-left:0;
+
+    padding:0.4rem 1.2rem;
+    /* width:260px;
+        height:62px; */
   }
 `;
 export const Div2 = styled.div`
