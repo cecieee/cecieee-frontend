@@ -16,6 +16,7 @@ export default Ieeefamily;
 
 const Container = styled.div`
   height: auto;
+  margin:0 2em;
   background: #fff;
 `;
 

@@ -54,7 +54,6 @@ const AboutContainer = styled.div`
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 3rem;
-  background-color: red;
   color:#fff;
   background-image: url(https://images.unsplash.com/photo-1631258578554-75acc38b6f99?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80);
   @media (max-width: 640px) {

@@ -4,9 +4,8 @@ export const Card = styled.span`
     background-color: ${props => props.theme.colors.primary3};
     margin:1em;
     display: block;
-    float:left;
     font-size:14px;
-    width:47%;
+    width:60%;
     @media ${(props) => props.theme.breakpoints.sm} {
     width:100%;
     margin:0;
@@ -32,10 +31,12 @@ export const Quotes = styled.span`
 export const Container = styled.div`
   
   background-color: ${props => props.theme.colors.background};
-  float:left;
   margin-bottom:5em;
   margin-top:4em;
   
+  display:flex;
+  justify-content: center;
+  align-items: center;
   @media ${(props) => props.theme.breakpoints.sm} {
     display:flex;
     flex-direction:column;

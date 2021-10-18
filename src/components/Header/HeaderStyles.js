@@ -4,8 +4,13 @@ export const Container = styled.div`
 
   background-color: ${props => props.theme.colors.background1};
   box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+  padding: 0 3em;
   display: flex;
-  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: 0 0.4em;
+}
 `;
 
 export const Container2 = styled.div`
@@ -31,22 +36,23 @@ export const Container2 = styled.div`
 
 export const Div1 = styled.div`
 
-padding:0.4rem;
-margin-left:5rem;
+padding:0.8rem;
+margin-left:2em;
 @media ${(props) => props.theme.breakpoints.sm} {
-    justify-content: left;
-    margin-left:0rem;
-    align-items: left;
-    padding:0.4rem 2.2rem;
-    width:260px;
-        height:62px;
+    
+    margin-left:0;
+
+    padding:0.4rem 1.2rem;
+    /* width:260px;
+        height:62px; */
   }
 `;
 export const Div2 = styled.div`
-display: flex;
-margin-left:14em;
+display:flex;
+margin:0 0 0 auto;
+justify-content:flex-end;
 list-style: none;
-flex-flow: row nowrap;
+
 
 
 @media ${(props) => props.theme.breakpoints.md} {

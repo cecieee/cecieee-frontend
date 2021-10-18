@@ -5,6 +5,7 @@ import About from '../components/About';
 import { Slider } from '../components/Slider';
 import Testimonials from '../components/Testimonials/Testimonials';
 import Footer from './../components/Footer/Footer';
+import BottomFooter from './../components/BottomFooter/BottomFooter';
 import Ieeefamily from '../components/Ieeefamily/Ieeefamily';
 import MemberCount from '../components/MemberCount/MemberCount';
 import Benifits from '../components/Benifits/Benifits';
@@ -26,6 +27,7 @@ export default function Home() {
           </Heading1>
           <Testimonials/>
           <Footer/>
+          <BottomFooter/>
         </Main>
     </Container>
   )
