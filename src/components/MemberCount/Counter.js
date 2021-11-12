@@ -5,8 +5,8 @@ import CountUp from 'react-countup';
 function Counter({name,count}) {
     return (
         <CounterSection>
-            <Count><CountUp end={count} duration={6.57} useEasing={true}/></Count>
-            <Name>{name}</Name>           
+            <Count><CountUp start = {7} end={count} duration={6.57} useEasing={true}/></Count> 
+            <Name>{name}</Name>  
         </CounterSection>
     )
 }
