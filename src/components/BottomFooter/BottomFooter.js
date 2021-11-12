@@ -1,11 +1,11 @@
 
 import React from 'react';
-import { Container,Hr, Div1 } from './BottomFooterStyles';
+import { Container,Hr, Div1,Paragraph, Paragraph2 } from './BottomFooterStyles';
 const BottomFooter = () => (
     <Container>
         <Div1><Hr/></Div1>
-        Copyright © 2015-19 IEEE Student Branch CEC
-Made with ♥ by Devcom.
+        <Paragraph>Copyright © 2015-2021 IEEE Student Branch CEC</Paragraph>
+        <Paragraph2>Made with <span>♥</span> by Devcom.</Paragraph2>
     </Container>
 );
 

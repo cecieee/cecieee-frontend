@@ -6,30 +6,19 @@ import { FaQuoteLeft} from 'react-icons/fa';
 
 
 
-const MessageCard = ({p1,p2,name1,designation1,name2,designation2,img1,img2})=>(
+const MessageCard = ({p,name,designation,img})=>(
         
         
         <Container>
                 <Card>
                         <Paragraph>
-                        {p1}
+                        {p}
                         </Paragraph>
                         <Quotes><FaQuoteLeft size="3em" /></Quotes>
 
                         <Triangle/>
-                        <CircleAvatar src={img1}/>
-                        <AvatarDetails><Name>{name1}</Name><Designation>{designation1}</Designation></AvatarDetails>
-                </Card>
-
-                <Card>
-                        <Paragraph>
-                        {p2}
-                        </Paragraph>
-                        <Quotes><FaQuoteLeft size="3em" /></Quotes>
-
-                        <Triangle/>
-                        <CircleAvatar src={img2}/>
-                        <AvatarDetails><Name>{name2}</Name><Designation>{designation2}</Designation></AvatarDetails>
+                        <CircleAvatar src={img}/>
+                        <AvatarDetails><Name>{name}</Name><Designation>{designation}</Designation></AvatarDetails>
                 </Card>
                 
         </Container>

@@ -38,8 +38,11 @@ const Footer = () => (
 College of Engineering, Chengannur
 Alapuzha, Kerala<br/>
 Pin:689121<br/>
-Email: chairman_ieee@ceconline.edu</Paragraph>
+Email: chairman_ieee@ceconline.edu
+</Paragraph>
+
         </Div2>
+        
     </Container>
 );
 
