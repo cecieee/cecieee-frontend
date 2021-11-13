@@ -7,7 +7,6 @@ function Layout() {
         <ConstitutionSection>
             <Heading2>IEEE Student Branch Chengannur College of Engineering</Heading2>
             <Heading2>Student Branch Constitution</Heading2>
-            <p>These ByLaws may be called the Constitution of IEEE Student Branch College of Engineering Chengannur.</p>
             <Laws />
         </ConstitutionSection>
     )

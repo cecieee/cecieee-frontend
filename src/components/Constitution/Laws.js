@@ -4,6 +4,7 @@ import styled from 'styled-components';
 function Laws() {
     return (
         <Innerdiv>
+            <p>These ByLaws may be called the Constitution of IEEE Student Branch College of Engineering Chengannur.</p>
             <Article>Article I: Name and Purpose</Article>
             <List>
                 <li><Sub>Sec. 1.</Sub> Name of the Student Branch is “IEEE Student Branch Chengannur College of Engineering”. Informally known as “IEEE Student Branch College of Engineering Chengannur” or “IEEE SB CEC”.<br /><br />SB Code: 60451</li>
@@ -338,8 +339,15 @@ function Laws() {
 export default Laws;
 
 const Innerdiv = styled.div`
-    padding 0px 40px;
+    padding 0px 60px;
     text-align: left;
+    p{
+        color #000000;
+    }
+
+    @media ${(props) => props.theme.breakpoints.sm} {
+        padding 0px 20px;
+      }
 `;
 
 const Article = styled.h3`
@@ -369,6 +377,15 @@ const SubList = styled.ul`
         list-style:none;
         margin-left:65px;
     }
+
+    @media ${(props) => props.theme.breakpoints.sm} {
+        margin-left:35px;
+
+        ul{
+            list-style:none;
+            margin-left:40px;
+        }
+      }
 `;
 
 const Sub = styled.span`
