@@ -7,8 +7,6 @@ import Layout from './Layout';
 function Constitution() {
     return (
         <Container>
-            <Heading1>Constitution</Heading1>
-            <BlueHorizontal><div /></BlueHorizontal>
             <Layout/>
         </Container>
     )

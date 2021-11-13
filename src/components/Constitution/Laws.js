@@ -225,6 +225,112 @@ function Laws() {
                 <li><Sub>Sec. 3.</Sub> All members of the event committee (Core and Volunteer) must be IEEE members.</li>
                 <li><Sub>Sec. 4.</Sub> Society/AG Advisor(of the corresponding Society/AG conducting the event) and Branch Counselor should be advisors for the event.</li>
             </List>
+            <Article>Article VIII: Finances</Article>
+            <List>
+                <li><Sub>Sec. 1.</Sub>  All financial matters related to SB will be the responsibility and duty of the treasurer.</li>
+                <li><Sub>Sec. 2.</Sub> SB will have a single Bank account for all OUs.</li>
+                <li><Sub>Sec. 3.</Sub> Withdrawing to be done by Treasurer after Student Branch Counselor’s endorsement.</li>
+                <li><Sub>Sec. 4.</Sub> Separate files should be maintained for the finances of all OUs.</li>
+                <li><Sub>Sec. 5.</Sub> Expenses above Rs. 5000 must be approved only after presenting a proposal before ExCom.</li>
+                <li><Sub>Sec. 6.</Sub> For purchases of commodities summing more than Rs. 5000, quotations must be sought from a minimum of two qualified vendors.</li>
+                <li><Sub>Sec. 7.</Sub> SB Treasurer must act as the event treasurer for all SB events.</li>
+                <li><Sub>Sec. 8.</Sub>  Exemption to Article VIII – Section 7 can be given by Branch Counselor after consultation with ExCom only if SB Treasurer is unable to take up the role.</li>
+                <li><Sub>Sec. 9.</Sub> All bills must be countersigned by the Branch Counselor and SBC Advisor after verification.</li>
+                <li><Sub>Sec. 10.</Sub> An estimate of the expenditure must be prepared before any event and must be approved by ExCom.</li>
+                <li><Sub>Sec. 11.</Sub> Bill settlement must be done within 20 days after the event.</li>
+                <li><Sub>Sec. 12.</Sub> Financial support can be provided for renewal of IEEE Membership for Branch Counselor and is limited to basic membership only.</li>
+            </List>
+            <Article>Article IX: IEEE Library and Centre of Excellence</Article>
+            <List>
+                <li><Sub>Sec. 1.</Sub> The SB Vice-Chair holds the position as Librarian of IEEE Library and Centre of Excellence.</li>
+                <li><Sub>Sec. 2.</Sub> The following position holders should verify the corresponding registers at the starting period of a new ExCom: <br /><br />
+                <SubList>
+                        <li><Sub>A.</Sub> Vice-Chair – Books Register</li>
+                        <li><Sub>B.</Sub>  SB Secretary – Correspondence Register, Endorsement Register and Volunteer Register.</li>
+                        <li><Sub>C.</Sub>  WIE Vice-Chair – Hospitality Register</li>
+                        <li><Sub>D.</Sub>  RAS Vice Chair – Components Register</li>
+                    </SubList>
+                </li>
+                <li><Sub>Sec. 3.</Sub> The above-mentioned position holders should be responsible to keep track of the corresponding registers.</li>
+                <li><Sub>Sec. 4.</Sub> SB Chairperson, SB Vice-Chair and RAS Secretary should be the custodians of the keys of IEEE Library and Centre of Excellence.</li>
+            </List>
+            <Article>Article X: Financial Support for Attending Events</Article>
+            <List>
+                <li><Sub>Sec. 1.</Sub> Financial Support may be given to members to attend International and national events, following the guideline given below. <br /><br />
+                <SubList>
+                        <li><Sub>A.</Sub> For International events, an amount not greater than Rs. 7000 can be provided as support. The ExCom should decide the amount after considering the factors such as the event, geographical location and support from other sources.</li>
+                        <li><Sub>B.</Sub>  For members representing Student Branch at National events as a special invitee, an amount not greater than Rs. 2500 or Second Class Rail Fare (whichever is lower) can be provided as support (Personal representations not to be considered).</li>                    
+                </SubList>
+                </li>
+                <li><Sub>Sec. 2.</Sub> Members representing Student Branch or Student Branch Chapter as a special invitee at Kerala Section events can be given a travel allowance, not exceeding Second Class Rail fare.</li>
+            </List>
+            <Article>Article XI: Endorsements</Article>
+            <List>
+                <li><Sub>Sec. 1.</Sub> Executive Committee members before endorsing the applications or providing Letter of Recommendation (LoR) at their present capacity should verify that the facts stated are true with the Volunteer Register.</li>
+                <li><Sub>Sec. 2.</Sub> Applications (for scholarships or volunteer roles) by members which require SB/SBC/AG Endorsement must be informed to SB/SBC/AG Chair, Branch Counselor and Chapter Advisor. For LoRs, SBC/AG Advisor (if it is related to a particular SBC/AG) and Branch Counselor should verify the details and ensure that the application details are entered in the Endorsement register kept with SB Secretary and SB Secretary must regularly inform ExCom the same.</li>
+                <li><Sub>Sec. 3.</Sub>  Executive Committee members seeking Endorsements must approach Branch Counselor or SBC/AG Advisor, whoever applicable.</li>
+            </List>
+            <Article>Article XII: Nominations and Appointments</Article>
+            <List>
+                <li><Sub>Sec. 1.</Sub>  The nomination committee of the Student Branch consists of Branch Counselor, SBC/AG Advisors, SB Chairperson, SB Secretary and all SBC and AG Chairpersons.</li>
+                <li><Sub>Sec. 2.</Sub> Nominations to the Student Branch ExCom have to be invited before November 30th of every year.</li>
+                <li><Sub>Sec. 3.</Sub>  During the call for nominations, the year of study of the applicants must be as follows: <br /><br />
+                <SubList>
+                        <li><Sub>A.</Sub> Second Year:</li>
+                        <ul>
+                            <li>i. SB Vice-Chair</li>
+                            <li>ii. SB Joint-Secretary</li>
+                            <li>iii. SBC/AG Vice-Chair</li>
+                        </ul>
+                        <li><Sub>B.</Sub>  Third Year:</li>
+                        <ul>
+                            <li>i. SB Chair</li>
+                            <li>ii. SB Secretary</li>
+                            <li>iii. SB Treasurer</li>
+                            <li>iv. SBC/AG Chair</li>
+                            <li>v. SBC/AG Secretary</li>
+                            <li>vi. Membership Development Coordinator</li>
+                        </ul>                    
+                        <li><Sub>C.</Sub>   Common (Both second and third years can apply):</li>  
+                        <ul>
+                            <li>i. Electronic Communication Coordinator</li>
+                            <li>ii. LINK Representative</li>
+                            <li>iii. SIGHT Coordinator</li>
+                            <li>iv. Webmaster</li>
+                        </ul>
+                </SubList>
+                </li>
+                <li><Sub>Sec. 4.</Sub> Nomination committee can evaluate the nomination by the method of conducting interviews.</li>
+                <li><Sub>Sec. 5.</Sub> The nomination committee has to publish the slate of office bearers on or before January 15th of every year.</li>
+                <li><Sub>Sec. 6.</Sub> Nomination by petition must be open for a week after publishing the slate.</li>
+                <li><Sub>Sec. 7.</Sub> Any nomination by petition must be signed by two percentage or six members(IEEE members for General ExCom nominations and Society/AG members for SBC/AG nominations), whichever is lower.</li>
+                <li><Sub>Sec. 8.</Sub>  In case of multiple nominations to the same position, a Tellers Committee has to be initiated by the SB Chairperson. Tellers Committee must include: <br /><br/>
+                <SubList>
+                        <li><Sub>A.</Sub> SB Counselor.</li>
+                        <li><Sub>B.</Sub>  At least two Society Advisors nominated by the SB Executive Committee.</li>                    
+                        <li><Sub>C.</Sub>  Three Student representatives nominated by the SB Executive Committee.</li>  
+                </SubList>
+                </li>
+                <li><Sub>Sec. 9.</Sub> SB Chairperson cannot be a part of the Tellers Committee.</li>
+                <li><Sub>Sec. 10.</Sub> The Tellers Committee can evaluate the petition by a detailed analysis of their applications and may conduct interviews.</li>
+                <li><Sub>Sec. 11.</Sub> Tellers Committee may consider voting as a final option if they fail to arrive at a conclusion by other means.</li>
+                <li><Sub>Sec. 12.</Sub> All IEEE members will have voting rights for General ExCom Elections and only SBC/AG members will have voting rights for corresponding SBC/AG ExCom Elections.</li>                
+                <li><Sub>Sec. 13.</Sub> The SB ExCom Transfer must be done in the Annual General Meeting only.</li>                
+                <li><Sub>Sec. 14.</Sub> Vacancies in ExCom posts arising in between a term must be resolved in the following manner. <br /><br/>
+                <SubList>
+                        <li><Sub>A.</Sub> If the term ends in less than six months, the ExCom can assign a current ExCom member the additional duty.</li>
+                        <li><Sub>B.</Sub>  Otherwise, normal procedures must be followed.</li>                    
+                </SubList>
+                </li>
+            </List>
+            <Article>Article XIII: Amendments</Article>
+            <List>
+                <li><Sub>Sec. 1.</Sub> Any amendments (addition, deletion or updates) to the ByLaws must be approved by Executive Committee and in General Body Meeting with the support of at least two-thirds of the quorum.</li>
+                <li><Sub>Sec. 2.</Sub> Any ExCom member can propose amendments to the ByLaws, for which he/she should ask the SB Secretary to circulate his/her proposal of edit to all ExCom members at least 14 days in advance to the ExCom meeting with his/her proposal in agenda. On approval of the suggested amendment by ExCom, the same should be presented in the next GM and approved to be brought into effect.</li>
+                <li><Sub>Sec. 3.</Sub> Any SB member may suggest an amendment in the General Body Meeting, for which he/she should ask in writing the SB Secretary to include his/her proposal of edit in agenda of GM. On approval of the suggested amendment in GM, the same should be presented in the next ExCom and approved to be brought into effect. If the ExCom disapproves the proposal, the same should be sent back to the GM to be discussed and a decision should be made on the same. If the General Body Meeting decides to not make edits in the proposal and is approved again with two third quorum, the ExCom must approve the same without voting and the amendment will come into effect.</li>
+                <li><Sub>Sec. 4.</Sub> Two-thirds of voting quorum is needed to be present in ExCom meeting to decide on Bylaw amendments.</li>
+            </List>
+            <br /><br /><br />
         </Innerdiv>
     )
 }
@@ -238,7 +344,7 @@ const Innerdiv = styled.div`
 
 const Article = styled.h3`
     color #000000;
-    margin:25px 0px;
+    margin:35px 0px;
 `;
 
 const List = styled.ul`
@@ -258,6 +364,10 @@ const SubList = styled.ul`
         margin-bottom:19px;
         color:#000000;
         font-size:15px;
+    }
+    ul{
+        list-style:none;
+        margin-left:65px;
     }
 `;
 
