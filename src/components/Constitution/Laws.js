@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'styled-components';
+import {Innerdiv,Article,List,SubList,Sub} from "./LawsStyles.js"
 
 function Laws() {
     return (
@@ -338,57 +338,3 @@ function Laws() {
 
 export default Laws;
 
-const Innerdiv = styled.div`
-    padding 0px 60px;
-    text-align: left;
-    p{
-        color #000000;
-    }
-
-    @media ${(props) => props.theme.breakpoints.sm} {
-        padding 0px 20px;
-      }
-`;
-
-const Article = styled.h3`
-    color #000000;
-    margin:35px 0px;
-`;
-
-const List = styled.ul`
-    list-style:none;
-
-    li{
-        margin-bottom:19px;
-        color:#000000;
-        font-size:15px;
-    }
-`;
-
-const SubList = styled.ul`
-    list-style:none;
-    margin-left:45px;
-    li{
-        margin-bottom:19px;
-        color:#000000;
-        font-size:15px;
-    }
-    ul{
-        list-style:none;
-        margin-left:65px;
-    }
-
-    @media ${(props) => props.theme.breakpoints.sm} {
-        margin-left:35px;
-
-        ul{
-            list-style:none;
-            margin-left:40px;
-        }
-      }
-`;
-
-const Sub = styled.span`
-    font-weight : 700;
-    color:#000000;
-`;
