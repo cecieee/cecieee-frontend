@@ -20,7 +20,7 @@ const ConstitutionSection = styled.div`
 `;
 
 const Heading2 = styled.h2`
-    padding 20px 5px;
+    padding: 20px 5px;
     color:#000000;
 `;
 

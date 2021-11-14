@@ -17,6 +17,5 @@ export default Constitution;
 const Container = styled.div`
   height: auto;
   margin:0 2em;
-  background: #fff;
   font-family: Open Sans,sans-serif;
 `;

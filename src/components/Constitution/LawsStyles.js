@@ -8,6 +8,9 @@ export const Innerdiv = styled.div`
         color #000000;
     }
 
+    li{
+        line-height: 1.5;
+    }
     @media ${(props) => props.theme.breakpoints.sm} {
         padding 0px 20px;
       }
