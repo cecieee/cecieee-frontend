@@ -13,7 +13,7 @@ const Footer = () => (
         width="190px"
         height="45px"
     /></a></Link>
-        <Paragraph>IEEE Student Branch Chengannur College of Engineering was established in mid-1997. Since it’s inception, the Student Branch has always worked towards connecting it’s members with advancing technology so as to create bright leaders for the future.</Paragraph>
+        <Paragraph>Want to be an IEEE member? <br /> Get started  <Link href="https://www.ieee.org/">here</Link></Paragraph>
         </Div1>
         <Div1>
             <Heading4>
