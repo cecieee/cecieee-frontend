@@ -11,17 +11,9 @@ const About = () => (
     >
       <AboutHead>CEC</AboutHead>
       <AboutText>
-        The Government College of Engineering Chengannur (established in 1993),
-        commonly known as CEC, is an engineering institute in the state of
-        Kerala, India. The college is located in Chengannur, Alappuzha. The
-        college was set up under the auspices of the Institute of Human
-        Resources Development (IHRD), is affiliated to the Cochin University of
-        Science and Technology, Kochi, and the courses are recognised by AICTE
-        and accredited by NBA, the National Board of Accreditation, India. CEC
-        is the Best Engineering College after Model Engineering College in
-        Kerala under KTU, as per the statistics of Director of Technical
-        Education, Kerala, who is the final voice of technical education in
-        Kerala State.
+      The Government College of Engineering Chengannur (established in 1993), commonly known as CEC, is an engineering institute in the state of Kerala, India.
+      The college was set up under the auspices of the Institute of Human Resources Development (IHRD) and is affiliated with the APJ Abdul Kalam Technological University (KTU).
+      It currently offers undergraduate degrees in four engineering streams and two postgraduate programs.
       </AboutText>
     </AboutCEC>
 
@@ -33,14 +25,10 @@ const About = () => (
       <AboutHead>IEEE SB CEC </AboutHead>
      
       <AboutText>
-      An IEEE student branch was formed in CEC in mid-1997, with the goal of keeping the students in touch with technological advances. 
-      An IEEE library was inaugurated in December 1999.
-       The library houses journals and magazines of IEEE. 
-      The IEEE Student Branch comes under the IEEE Kerala Section. 
-      CEC’s IEEE student members have presented projects at State and National level conferences and competitions. 
-      An IEEE Robotics Initiative Program has begun, with groups designing robots.
-     IEEE-CEC is known for its consistent achievements since its inception in 1996. 
-     IEEE-CEC is also known for many firsts including being the first IEEE Student Branch in the world to win the IEEE WIE SB Affinity Group of the year award in 2005.
+      IEEE Student Branch College of Engineering Chengannur was formed in mid-1997, with the goal of keeping the students in touch with the advancing technology. 
+      It is equipped with an IEEE library that was inaugurated in December 1999 and currently functions as the headquarters of IEEE SB CEC.  
+      The Student Branch comes under the Kochi Hub of IEEE Kerala Section and is one of the most active Student Branches in the country. 
+      IEEE SB CEC has made numerous contributions to its student  community that has received widespread recognition across the globe and is the first Student Branch in the Asia-Pacific Region to establish a Women in Engineering Affinity Group.
       </AboutText>
     </AboutCEC>
   </AboutContainer>
