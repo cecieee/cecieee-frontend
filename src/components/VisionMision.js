@@ -15,7 +15,7 @@ const Header = () => (
         <FetureHead>What Is IEEE?</FetureHead>
         <FeatureLine />
         <FeatureText>
-          The Institute of Electrical and Electronic Engineers (IEEE) is a
+          IEEE is a
           global association and organization of professionals working toward
           the development, implementation and maintenance of technology-centered
           products and services.
