@@ -19,7 +19,7 @@ export default class EventHero extends Component {
                 const data = res.data
                 console.log(data)
                 const events = data.map(u =>
-                    <Card>
+                    <Card key={u.id}>
                     <EventImage src={u.image} />
                     <EventName>{u.name}</EventName>
                     <EventDate><FaRegCalendarAlt size="1em"/><Span>{u.date}</Span></EventDate>
