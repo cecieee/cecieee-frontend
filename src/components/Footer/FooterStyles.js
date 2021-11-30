@@ -67,6 +67,11 @@ export const Paragraph = styled.p`
   color: white;
   line-height: 22px;
   font-size: 13px;
+  a {
+    text-decoration : none;
+    color:white;
+    font-weight:600;
+  }
   @media ${(props) => props.theme.breakpoints.sm}{
 
   }
