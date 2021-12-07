@@ -12,6 +12,10 @@ export const StyledBanner = styled.div`
 export const StyledMain = styled.main`
   text-align: center;
   padding: 5rem 15rem;
+
+  @media ${(props) => props.theme.breakpoints.md} {
+    padding: 5rem 3rem;
+}
 `;
 
 const StyledParagraph = styled.p`
