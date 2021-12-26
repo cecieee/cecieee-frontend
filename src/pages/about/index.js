@@ -12,6 +12,7 @@ import BottomFooter from "@components/BottomFooter/BottomFooter";
 import UnderLinedTitle from "@components/UnderlinedTitle.styled";
 import { BlueLine } from "@components/BlueHorizontal";
 import BlueHorizontal from "@components/BlueHorizontal";
+import Achievement from "@components/Achievements/Achievement";
 
 export default function About() {
   return (
@@ -47,6 +48,7 @@ export default function About() {
         <StyledAcheivements>
           <Heading1>Achievements</Heading1>
           <BlueHorizontal><div /></BlueHorizontal>
+          <Achievement />
         </StyledAcheivements>
         <Footer />
         <BottomFooter />
