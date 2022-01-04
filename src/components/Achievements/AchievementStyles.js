@@ -3,8 +3,9 @@ import styled from 'styled-components';
 export const Container = styled.div`
   background-color: ${props => props.theme.colors.background1};
   padding: 0 3em;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-wrap:wrap;
+//   grid-template-columns: repeat(3, 1fr);
   @media ${(props) => props.theme.breakpoints.md} {
     padding: 0 0.4em;
     grid-template-columns: repeat(2, 1fr);
@@ -20,8 +21,6 @@ export const Card = styled.div`
     flex-direction : column;
     height : 42rem;
     margin : 70px auto;
-    color:grey;
-    border:  4px solid rgba(236, 236, 236,0.8);
     background : #fff;
     position : relative;
     @media ${(props) => props.theme.breakpoints.sm} {
