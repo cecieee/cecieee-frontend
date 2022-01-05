@@ -3,17 +3,8 @@ import Link from "next/link";
 import { Container2, Elements } from "./HeaderStyles";
 const AboutElement = () => (
   <Container2 className="hide-container">
-    <Link href="/about/excom-2020" passHref>
+    <Link href="/about/execom2020" passHref>
       <Elements>ExCom 2020</Elements>
-    </Link>
-    <Link href="/about/excom-2019" passHref>
-      <Elements>ExCom 2019</Elements>
-    </Link>
-    <Link href="/about/excom-2018" passHref>
-      <Elements>ExCom 2018</Elements>
-    </Link>
-    <Link href="/about/excom-2017" passHref>
-      <Elements>ExCom 2017</Elements>
     </Link>
     <Link href="/about/timeline" passHref>
       <Elements>Timeline</Elements>
