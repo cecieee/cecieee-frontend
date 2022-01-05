@@ -10,6 +10,9 @@ import {
 import Footer from "@components/Footer/Footer";
 import BottomFooter from "@components/BottomFooter/BottomFooter";
 import UnderLinedTitle from "@components/UnderlinedTitle.styled";
+import { BlueLine } from "@components/BlueHorizontal";
+import BlueHorizontal from "@components/BlueHorizontal";
+import Achievement from "@components/Achievements/Achievement";
 
 export default function About() {
   return (
@@ -17,9 +20,8 @@ export default function About() {
       <Main>
         <TopHeader />
         <Header />
-        <StyledBanner>
-          <UnderLinedTitle primary>About Us</UnderLinedTitle>
-        </StyledBanner>
+        <Heading1>About Us</Heading1>
+        <BlueHorizontal><div /></BlueHorizontal>
         <StyledMain>
           <StyledMain.Paragraph>
             The IEEE Student Branch of College of Engineering, Chengannur formed
@@ -31,8 +33,8 @@ export default function About() {
             managerial skills, enculturating fidelity, accelerating career
             goals, strengthening ambition and brightening the future of its
             student members thereby contributing productive and socially
-            committed engineers to society. Through Seminars, Workshops,
-            Technical Festivals and Competitions, the Student Branch is fervent
+            committed engineers to society. Through seminars, workshops,
+            technical festivals and competitions, the Student Branch is ardent
             in helping its student members to update their knowledge and skills
             with technology which is advancing by leaps and bounds.
           </StyledMain.Paragraph>
@@ -44,8 +46,9 @@ export default function About() {
           </StyledMain.Paragraph>
         </StyledMain>
         <StyledAcheivements>
-          <UnderLinedTitle>Acheivements</UnderLinedTitle>
-          <StyledAcheivements.AwardsGrid>ss</StyledAcheivements.AwardsGrid>
+          <Heading1>Achievements</Heading1>
+          <BlueHorizontal><div /></BlueHorizontal>
+          <Achievement />
         </StyledAcheivements>
         <Footer />
         <BottomFooter />
