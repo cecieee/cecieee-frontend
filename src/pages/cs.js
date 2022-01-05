@@ -20,7 +20,7 @@ export default function About() {
       <Header/><Container2>
         <Heading1>
           <Logo src="/images/society/cs-logo.png" />
-          <center><a href="https://www.computer.org/" target="_blank"><Button >Go to Website</Button></a></center>
+          <center><a href="https://www.computer.org/" target="_blank" rel="noreferrer"><Button >Go to Website</Button></a></center>
           </Heading1></Container2>
           <center><br/><br/>
           <ContainerMission>
@@ -51,19 +51,19 @@ export default function About() {
         <UnderLine color={"blue"} />
         <Container1>
         <Member>
-            <Image src="/images/ExCom2020/Aju.jpg" />
+            <Image alt="" src="/images/ExCom2020/Aju.jpg" />
             <Name>Aju George Jacob</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image src ="/images/ExCom2020/george.jpg" />
+            <Image alt="" src ="/images/ExCom2020/george.jpg" />
             <Name>George Mammen</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image src ="/images/ExCom2020/Allen.jpg" />
+          <Image alt="" src ="/images/ExCom2020/Allen.jpg" />
             <Name>Allen B Abraham</Name>
 <Position>Secretary</Position>
 
@@ -181,7 +181,7 @@ const Member = styled.div`
   flex-direction: column;
   `;
 
-const Image = styled.img`
+const Image  = styled.img`
   height: 180px;
   width:180px;
   border: 5px solid ${props => props.border};

@@ -20,7 +20,7 @@ export default function About() {
       <Header/><Container2>
         <Heading1>
           <Logo src="/images/society/wie-logo.png" />
-          <center><a href="https://wie.ieee.org/" target="_blank"><Button >Go to Website</Button></a></center>
+          <center><a href="https://wie.ieee.org/" target="_blank" rel="noreferrer"><Button >Go to Website</Button></a></center>
           </Heading1></Container2>
           <center><br/><br/>
           <ContainerMission>
@@ -39,7 +39,7 @@ export default function About() {
           backgroundColor: "#25282d",
         }}
       >
-       <LottieAnimation lotti={vision} height={120} width={120} />
+      <LottieAnimation lotti={vision} height={120} width={120} />
         <FetureHead>Vision</FetureHead>
         <FeatureLine />
         <FeatureText>
@@ -51,19 +51,19 @@ export default function About() {
         <UnderLine color={"blue"} />
         <Container1>
         <Member>
-            <Image src="/images/ExCom2020/Shreelakshmi-.jpg" />
+            <Image alt=""src="/images/ExCom2020/Shreelakshmi-.jpg" />
             <Name>Sreelekshmi S</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image src ="/images/ExCom2020/Vyshnavi.jpg" />
+            <Image alt=""src ="/images/ExCom2020/Vyshnavi.jpg" />
             <Name>Vyshnavi Nair</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image src ="/images/ExCom2020/Aksa.jpg" />
+          <Image alt=""src ="/images/ExCom2020/Aksa.jpg" />
             <Name>Aksa Ann Varghese</Name>
 <Position>Secretary</Position>
 

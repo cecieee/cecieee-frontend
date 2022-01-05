@@ -20,7 +20,7 @@ export default function About() {
       <Header/><Container2>
         <Heading1>
           <Logo src="/images/society/sscs-logo.png" />
-          <center><a href="https://sscs.ieee.org/" target="_blank"><Button >Go to Website</Button></a></center>
+          <center><a href="https://sscs.ieee.org/" target="_blank" rel="noreferrer"><Button >Go to Website</Button></a></center>
           </Heading1></Container2>
           <center><br/><br/>
           <ContainerMission>
