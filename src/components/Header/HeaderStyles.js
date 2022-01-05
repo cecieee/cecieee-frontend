@@ -30,8 +30,11 @@ export const Container2 = styled.div`
     }
     }
   @media ${(props) => props.theme.breakpoints.sm} {
-
-  }
+  &:hover{
+    cursor: pointer;
+    .hide-container{
+      display:absolute;
+  }}
 `;
 
 export const Div1 = styled.div`
@@ -91,7 +94,6 @@ export const NavLink = styled.a`
     cursor: pointer;
     .hide-container{
       display: block;
-  
     }
   }
   @media ${(props) => props.theme.breakpoints.sm} {
@@ -104,10 +106,12 @@ export const NavLink = styled.a`
     color: #6C98E1;
     opacity: 1;
     cursor: pointer;
-    .hide-container{
-      display: none;
+    &:hover {.hide-container{
+      display: absolute;
+      margin:0;
+      width: 70%;
   
-    }
+    }}
   }
 }
 `;
