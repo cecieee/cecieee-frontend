@@ -20,7 +20,7 @@ export default function About() {
       <Header/><Container2>
         <Heading1>
           <Logo src="/images/society/ras-logo.png" />
-          <center><a href="https://www.ieee-ras.org/" target="_blank"><Button >Go to Website</Button></a></center>
+          <center><a href="https://www.ieee-ras.org/" target="_blank" rel="noreferrer"><Button >Go to Website</Button></a></center>
           </Heading1></Container2>
           <center><br/><br/>
           <ContainerMission>
@@ -51,19 +51,19 @@ export default function About() {
         <UnderLine color={"blue"} />
         <Container1>
         <Member>
-            <Image src="/images/ExCom2020/Asher.jpg" />
+            <Image alt=""src="/images/ExCom2020/Asher.jpg" />
             <Name>Asher Thomas Babu</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image src ="/images/ExCom2020/Ajith.jpg" />
+            <Image alt=""src ="/images/ExCom2020/Ajith.jpg" />
             <Name>Ajith V Anil</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image src ="/images/ExCom2020/Akhila.jpg" />
+          <Image alt=""src ="/images/ExCom2020/Akhila.jpg" />
             <Name>Akhila Sara Sam</Name>
 <Position>Secretary</Position>
 

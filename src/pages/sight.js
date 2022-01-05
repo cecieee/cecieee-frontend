@@ -20,7 +20,7 @@ export default function About() {
       <Header/><Container2>
         <Heading1>
           <Logo src="/images/society/sight-logo.png" />
-          <center><a href="https://sight.ieee.org/" target="_blank"><Button >Go to Website</Button></a></center>
+          <center><a href="https://sight.ieee.org/" target="_blank" rel="noreferrer"><Button >Go to Website</Button></a></center>
           </Heading1></Container2>
           <center><br/><br/>
           <ContainerMission>
@@ -51,7 +51,7 @@ export default function About() {
         <UnderLine color={"blue"} />
         <Container1>
         <Member>
-            <Image src="/images/ExCom2020/Iqbal.jpg" />
+            <Image alt="" src="/images/ExCom2020/Iqbal.jpg" />
             <Name>Muhammed Iqbal</Name>
 <Position>SIGHT Coordinator</Position>
 

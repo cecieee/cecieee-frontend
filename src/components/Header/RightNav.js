@@ -13,7 +13,6 @@ const RightNav = ({ open }) => {
     
     <ActiveLink href=""><NavLink>Chapters<ChapterElement/></NavLink></ActiveLink>
     <ActiveLink href="/event-list"><NavLink>Events</NavLink></ActiveLink>
-    <ActiveLink href="/news"><NavLink>News</NavLink></ActiveLink>
     <ActiveLink href="/constitution"><NavLink>Constitution</NavLink></ActiveLink>
     <Link href="https://www.ieee.org/membership/join/index.html" passHref><NavLink>Join IEEE</NavLink></Link>
     </Div2>

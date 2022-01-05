@@ -15,20 +15,13 @@ const Footer = () => (
     /></a></Link>
         <Paragraph>Want to be an IEEE member? <br /> Get started  <Link href="https://www.ieee.org/">here</Link></Paragraph>
         </Div1>
-        <Div1>
-            <Heading4>
-                Recent News
-            </Heading4>
-            <Hr/>
-        
-        </Div1>
-        <Div1>
+        {/* <Div1>
         <Heading4>
                 Follow Us
             </Heading4>
             <Hr/>
         
-        </Div1>
+        </Div1> */}
         <Div2>
             <Heading4>
                 Contact Us

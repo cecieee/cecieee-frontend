@@ -20,7 +20,7 @@ export default function About() {
       <Header/><Container2>
         <Heading1>
           <Logo src="/images/society/pes-logo.png" />
-          <center><a href="https://www.ieee-pes.org/" target="_blank"><Button >Go to Website</Button></a></center>
+          <center><a href="https://www.ieee-pes.org/" target="_blank" rel="noreferrer"><Button >Go to Website</Button></a></center>
           </Heading1></Container2>
           <center><br/><br/>
           <ContainerMission>
@@ -51,19 +51,19 @@ export default function About() {
         <UnderLine color={"blue"} />
         <Container1>
         <Member>
-            <Image src="/images/ExCom2020/Krishna-P.jpg" />
+            <Image alt="" src="/images/ExCom2020/Krishna-P.jpg" />
             <Name>Krishna P</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image src ="/images/ExCom2020/Ashish.jpg" />
+            <Image alt="" src ="/images/ExCom2020/Ashish.jpg" />
             <Name>Ashish Kurian</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image src ="/images/ExCom2020/Nandhakrishnan.png" />
+          <Image alt="" src ="/images/ExCom2020/Nandhakrishnan.png" />
             <Name>Nanda Krishnan S</Name>
 <Position>Secretary</Position>
 
