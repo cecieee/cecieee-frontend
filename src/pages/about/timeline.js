@@ -1,6 +1,5 @@
 import { Container, Main, } from "@styles/HomeStyles";
-import TopHeader from "@components/TopHeader/TopHeader";
-import Header from "@components/Header/Header";
+import FixedHeader from "@components/FixedHeader";
 
 import Footer from '@components/Footer/Footer';
 import Timeline from '@components/Timeline/Timeline';
@@ -8,9 +7,9 @@ import Timeline from '@components/Timeline/Timeline';
 export default function TimeLine() {
   return (
     <Container>
+       <FixedHeader/>
       <Main>
-        <TopHeader/>
-        <Header/>
+     
           <Timeline/>
           <Footer/>
           
