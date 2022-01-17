@@ -1,10 +1,12 @@
 import TopHeader from '../components/TopHeader/TopHeader';
 import Header from '../components/Header/Header';
 import styled from 'styled-components';
+import Sidebar from './Sidebar';
 const FixedHeader = () =>(
     <Container>
         <TopHeader/>
         <Header/>
+        <Sidebar />
     </Container>
 );
 

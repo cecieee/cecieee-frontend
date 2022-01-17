@@ -4,6 +4,9 @@ export const Container = styled.div`
   background-color: ${props => props.theme.colors.primary1};
   display: flex;
   flex-direction: row;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    display: none;
+  }
 `;
 
 

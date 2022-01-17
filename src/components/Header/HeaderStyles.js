@@ -44,7 +44,7 @@ margin-left:2em;
 @media ${(props) => props.theme.breakpoints.sm} {
     
     margin-left:0;
-
+    margin-top:8px;
     padding:0.4rem 1.2rem;
     /* width:260px;
         height:62px; */
@@ -59,16 +59,10 @@ list-style: none;
 
 
 @media ${(props) => props.theme.breakpoints.md} {
-  flex-flow: column nowrap;
-    background-color: #0D2538;
-    position: fixed;
-    z-index:20;
-    transform: ${({ open }) => open ? 'translateX(0%) translateY(33.5%)' : 'translateX(100%) translateY(33.5%)'};
-    top: 0;
-    right: 0;
-    padding:2rem 0;
-    width: 100%;
-    transition: transform 0.3s ease-in-out;
+  
+    
+    
+    display:none;
   }
 `;
 export const NavLink = styled.a`

@@ -11,6 +11,10 @@ export const Main = styled.main`
   flex: 1;
   display: flex;
   flex-direction: column;
+  margin-top:7.5em;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    margin-top:4em;
+  }
 `;
 
 

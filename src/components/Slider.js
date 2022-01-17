@@ -31,10 +31,10 @@ export function Slider(){
 }
 
 const Div = styled.div`
-    margin-top:7.5em;
+    
 
     @media ${(props) => props.theme.breakpoints.sm}{
-        margin-top:9.8em
+    
     }
 `;
 

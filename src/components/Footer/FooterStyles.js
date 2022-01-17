@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+height: auto;
  padding:0 3em;
   background-color: ${props => props.theme.colors.primary2};
   display: grid;
@@ -25,7 +26,7 @@ margin-bottom:4em;
 
 @media ${(props) => props.theme.breakpoints.sm} {
     justify-content: left;
-    margin-left:0rem;
+    margin:1em 0rem;
     align-items: left;
     padding:0.4rem 1.2rem;
     
@@ -35,30 +36,52 @@ margin-bottom:4em;
 
 export const Div2 = styled.div`
 
-
+margin: 0 6em;
 margin-top:5em;
 padding:0 1.6em;
 align-content: center;
 margin-bottom:4em;
 @media ${(props) => props.theme.breakpoints.sm} {
-    margin-left:0rem;
+    margin:2em 0;
     align-items: left;
+
     padding:0.4rem 1.2rem;
   }
 `;
 
 export const Div3 = styled.div`
-
-color:red;
-height:8em;
-
-
+margin-top:3em;
+padding:0 0;
+display:flex;
+flex-direction:row;
+align-content: center;
+.social-text{
+  display:none;
+}
 @media ${(props) => props.theme.breakpoints.sm} {
-    justify-content: left;
+  margin-top:0;
     margin-left:0rem;
     align-items: left;
-    padding:0.4rem 2.2rem;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    padding:0.4rem 1.2rem;
     
+  }
+  li{
+    
+    padding:0 1.2em;
+    @media ${(props) => props.theme.breakpoints.sm} {
+      padding:0;
+    margin:1em 0;
+    display:flex;
+    .social-text{
+     display: flex;
+     align-items:center;
+     color:white;
+     padding-left:10px;
+      
+    }
+  }
   }
 `;
 

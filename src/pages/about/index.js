@@ -1,7 +1,6 @@
 import Head from "next/head";
 import { Container, Main, Heading1 } from "@styles/HomeStyles";
-import TopHeader from "@components/TopHeader/TopHeader";
-import Header from "@components/Header/Header";
+import FixedHeader from "@components/FixedHeader";
 import {
   StyledAcheivements,
   StyledBanner,
@@ -17,9 +16,9 @@ import Achievement from "@components/Achievements/Achievement";
 export default function About() {
   return (
     <Container>
+      <FixedHeader/>
       <Main>
-        <TopHeader />
-        <Header />
+        
         <Heading1>About Us</Heading1>
         <BlueHorizontal><div /></BlueHorizontal>
         <StyledMain>
