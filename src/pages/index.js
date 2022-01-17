@@ -13,8 +13,9 @@ import Benifits from '../components/Benifits/Benifits';
 export default function Home() {
   return (
     <Container>
+      <FixedHeader/>
       <Main>
-        <FixedHeader/>
+        
         <Slider />
         <VisionMision/>
           <About/>

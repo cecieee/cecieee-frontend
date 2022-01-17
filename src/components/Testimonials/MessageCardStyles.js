@@ -63,7 +63,6 @@ export const CircleAvatar = styled.img`
   justify-content: center;
   margin-top:2rem;
   align-items: center;
-  border: 1px solid black;
   width:50px;
   height:50px;
 

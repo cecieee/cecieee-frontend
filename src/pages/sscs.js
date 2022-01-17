@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import { Container, Main, Heading1} from '../styles/HomeStyles';
-import TopHeader from '../components/TopHeader/TopHeader';
-import Header from '../components/Header/Header';
+import FixedHeader from "@components/FixedHeader";
 import Footer from './../components/Footer/Footer';
 import styled from 'styled-components';
 import LottieAnimation from "../components/Lottie";
@@ -13,11 +12,12 @@ import vision from "../Animations/Vision.json";
 export default function About() {
   return (
     <Container>
+       <FixedHeader/>
       <Main style={{
           backgroundColor: "#000000",
         }}>
-      <TopHeader/>
-      <Header/><Container2>
+     
+      <Container2>
         <Heading1>
           <Logo src="/images/society/sscs-logo.png" />
           <center><a href="https://sscs.ieee.org/" target="_blank" rel="noreferrer"><Button >Go to Website</Button></a></center>
