@@ -14,7 +14,7 @@ import level5 from "../../public/images/carousal-images/level-5.jpg"
 const handleDragStart = (e) => e.preventDefault();
 
 const items = [
-        <Image  src={level1} alt="AKPSC IEEE" className="sliderimg" onDragStart={handleDragStart}/>,
+        <Image  src={level1} alt="AKPSC IEEE" className="sliderimg" onDragStart={handleDragStart} />,
         <Image src={level2} alt="" className="sliderimg" onDragStart={handleDragStart}  />,
         <Image alt="" src={level3} className="sliderimg" onDragStart={handleDragStart}  />,
         <Image alt="" src={level4} className="sliderimg"  onDragStart={handleDragStart}/>,

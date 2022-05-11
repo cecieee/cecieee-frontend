@@ -11,62 +11,62 @@ export default function ExeCom2020() {
       <Main>
       
       <HeadingExecom>
-        ExeCom 2020</HeadingExecom>
+        ExCom 2022</HeadingExecom>
         <center>
         <SocietyHead>IEEE SB CEC</SocietyHead>
-        <UnderLine color={"blue"} />
+        <UnderLine color={"#0066a1"} />
         <Container1>
           <Member>
-            <Image alt="" src="/images/ExCom2020/Govind.jpg" />
-            <Name>Govind Kartha</Name>
+            <Image alt="" src="/images/ExCom/Krishna.png" />
+            <Name>Krishna Ajith</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom2020/Krishna.jpg" />
-            <Name>Krishna Ajith</Name>
+            <Image alt="" src ="/images/ExCom/Sajad.png" />
+            <Name>Sajad S</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Rojin.png" />
-            <Name>Rojin K Sunny</Name>
+          <Image alt="" src ="/images/ExCom/Heba.png" />
+            <Name>Heba Anna Philip</Name>
 <Position>Secretary</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Abin.jpg" />
-            <Name>Abin Binu Sam</Name>
+          <Image alt="" src ="/images/ExCom/Abel.png" />
+            <Name>Abel C Alexander</Name>
 <Position>Treasurer</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Heba.jpg" />
-            <Name>Heba Anna Philip</Name>
+          <Image alt="" src ="/images/ExCom/Kripa.png" />
+            <Name>Kripa Maria Mathews</Name>
 <Position>Joint Secretary</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Alby.jpg" />
-            <Name>Alby Johnson</Name>
+          <Image alt="" src ="/images/ExCom/Vishnu_LINK.png" />
+            <Name>Vishnu Pranav K S</Name>
 <Position>Link Representative</Position>
           </Member>
 
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Sreerag.jpg" />
+          <Image alt="" src ="/images/ExCom/Sreerag.png" />
             <Name>Sreerag N</Name>
 <Position>EC Coordinator</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Noel.jpg" />
-            <Name>Noel Jose T P</Name>
+          <Image alt="" src ="/images/ExCom/Danish.png" />
+            <Name>Danish Roshan</Name>
 <Position>Webmaster</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Joyal.jpg" />
-            <Name>Joyal Jose</Name>
+          <Image alt="" src ="/images/ExCom/Ashitha.png" />
+            <Name>Ashitha Jacob</Name>
 <Position>Membership Development Chair</Position>
           </Member>
 
@@ -74,23 +74,23 @@ export default function ExeCom2020() {
         <br/><br/><br/><br/>
         <Section>
         <SocietyHead>CS Chapter</SocietyHead>
-        <UnderLine color={"blue"} />
+        <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Aju.jpg" border={"#000"} />
-            <Name>Aju George Jacob </Name>
+            <Image alt="" src="/images/ExCom/George.png"/>
+            <Name>George Mammen </Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom2020/george.jpg" />
-            <Name>George Mammen</Name>
+            <Image alt="" src ="/images/ExCom/Suzanne.png" />
+            <Name>Suzanne James</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Allen.jpg" />
-            <Name>Allen B Abraham</Name>
+          <Image alt="" src ="/images/ExCom/Gowri.png" />
+            <Name>Gowri Mungath</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -98,23 +98,23 @@ export default function ExeCom2020() {
 
         <br/><br/><br/><br/>
         <SocietyHead>IMS Chapter</SocietyHead>
-        <UnderLine color={"blue"} />
+        <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Anandu-Ramachandran.jpg" />
-            <Name>Anandu Ramachandran</Name>
+            <Image alt="" src="/images/ExCom/Shaheer.png" />
+            <Name>Mohammed Shaheer V K</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom2020/Shaheer.jpg" />
-            <Name>Mohammed Shaheer V K</Name>
+            <Image alt="" src ="/images/ExCom/Malavika.png" />
+            <Name>Malavika P Nair</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Anjali.jpg" />
-            <Name>Anjali Krishna</Name>
+          <Image alt="" src ="/images/ExCom/Soorya.png" />
+            <Name>Soorya Pankaj</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -123,23 +123,23 @@ export default function ExeCom2020() {
         <br/><br/><br/><br/>
         <Section>
         <SocietyHead>PES Chapter</SocietyHead>
-        <UnderLine  color={"blue"} />
+        <UnderLine  color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Krishna-P.jpg" />
-            <Name>Krishna P</Name>
+            <Image alt="" src="/images/ExCom/Ashish.png" />
+            <Name>Ashish Kurian</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom2020/Ashish.jpg" />
-            <Name>Ashish Kurian</Name>
+            <Image alt="" src ="/images/ExCom/Nandana.png" />
+            <Name>Nandana Suresh</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Nandhakrishnan.png" />
-            <Name>Nanda Krishnan S</Name>
+          <Image alt="" src ="/images/ExCom/Vishnu_PES.png" />
+            <Name>Vishnu R</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -147,23 +147,23 @@ export default function ExeCom2020() {
 
         <br/><br/><br/><br/>
         <SocietyHead>RAS Chapter</SocietyHead>
-        <UnderLine color={"blue"} />
+        <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Asher.jpg" />
-            <Name>Asher Thomas Babu</Name>
+            <Image alt="" src="/images/ExCom/Ajith.png" />
+            <Name>Ajith V Anil</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom2020/Ajith.jpg" />
-            <Name>Ajith V Anil</Name>
+            <Image alt="" src ="/images/ExCom/Aryananda.png" />
+            <Name>Aryananda S</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Akhila.jpg" />
-            <Name>Akhila Sara Sam</Name>
+          <Image alt="" src ="/images/ExCom/Vishu.png" />
+            <Name>Vishu G Sabu</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -172,23 +172,23 @@ export default function ExeCom2020() {
         <br/><br/><br/><br/>
         <Section>
         <SocietyHead>WIE Affinity Group</SocietyHead>
-        <UnderLine color={"blue"} />
+        <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Shreelakshmi-.jpg" />
-            <Name>Sreelekshmi S</Name>
+            <Image alt="" src="/images/ExCom/Vyshnavi.png" />
+            <Name>Vyshnavi Nair</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom2020/Vyshnavi.jpg" />
-            <Name>Vyshnavi Nair</Name>
+            <Image alt="" src ="/images/ExCom/Gouri.png" />
+            <Name>Gouri M Menon</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Aksa.jpg" />
-            <Name>Aksa Ann Varghese</Name>
+          <Image alt="" src ="/images/ExCom/Alby.png" />
+            <Name>Alby Johnson</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -196,23 +196,23 @@ export default function ExeCom2020() {
 
         <br/><br/><br/><br/>
         <SocietyHead>IAS Chapter</SocietyHead>
-        <UnderLine color={"blue"} />
+        <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Manna.jpg" />
-            <Name>Manna Maria John</Name>
+            <Image alt="" src="/images/ExCom/Vishnu_IAS.png" />
+            <Name>Vishnu M</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom2020/Vishnu.jpeg" />
-            <Name>Vishnu M</Name>
+            <Image alt="" src ="/images/ExCom/Swathi.png" />
+            <Name>Swathy Sekhar</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom2020/Aleena.jpg" />
-            <Name>Aleena Benoy</Name>
+          <Image alt="" src ="/images/ExCom/Yadhu.png" />
+            <Name>Yadhu R Nair</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -221,10 +221,10 @@ export default function ExeCom2020() {
         <br/><br/><br/><br/>
         <Section>
         <SocietyHead>IEEE SIGHT</SocietyHead>
-        <UnderLine color={"blue"} />
+        <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Iqbal.jpg" />
+            <Image alt="" src="/images/ExCom/Iqbal.png" />
             <Name>Muhammed Iqbal</Name>
 <Position>SIGHT Coordinator</Position>
 

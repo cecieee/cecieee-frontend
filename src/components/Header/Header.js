@@ -12,7 +12,7 @@ import Burger from './Burger';
 const Header = () => (
     <Container>
         <Div1>
-            <Link href="/"><a><img  src="/images/IEEE-SB-logo.png" alt="IEEE SB CEC LOGO" width="170px" height="40px"/></a></Link>
+            <Link href="/"><a><img  src="/images/25_year_logo_IEEE_SB_CEC.png" alt="IEEE SB CEC LOGO" width="59px" height="59px"/></a></Link>
         </Div1>
        <Burger />
        
