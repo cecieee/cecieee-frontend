@@ -126,20 +126,20 @@ export default function ExeCom2020() {
         <UnderLine  color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Ashish.png" />
-            <Name>Ashish Kurian</Name>
+            <Image alt="" src="/images/Excom_23/Nandana Suresh.jpg" />
+            <Name>Nandana Suresh</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom/Nandana.png" />
-            <Name>Nandana Suresh</Name>
+            <Image alt="" src ="/images/Excom_23/Sreyas Jayachandran.png" />
+            <Name>Sreyas Jayachandran</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom/Vishnu_PES.png" />
-            <Name>Vishnu R</Name>
+          <Image alt="" src ="/images/Excom_23/Aleesha Thomas_.jpg" />
+            <Name>Aleesha Thomas</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -150,20 +150,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Ajith.png" />
-            <Name>Ajith V Anil</Name>
+            <Image alt="" src="/images/Excom_23/Aryananda S.jpg" />
+            <Name>Aryananda S</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom/Aryananda.png" />
-            <Name>Aryananda S</Name>
+            <Image alt="" src ="/images/Excom_23/Alan George Cheriyan.jpg" />
+            <Name>Alan George Cheriyan</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom/Vishu.png" />
-            <Name>Vishu G Sabu</Name>
+          <Image alt="" src ="/images/Excom_23/Neeraj Kumar S.jpeg" />
+            <Name>Neeraj Kumar S</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -175,20 +175,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Vyshnavi.png" />
-            <Name>Vyshnavi Nair</Name>
+            <Image alt="" src="/images/Excom_23/Gouri M Menon.png" />
+            <Name>Gouri M Menon</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom/Gouri.png" />
-            <Name>Gouri M Menon</Name>
+            <Image alt="" src ="/images/Excom_23/Vrindha Vinod_.jpg" />
+            <Name>Vrindha Vinod</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom/Alby.png" />
-            <Name>Alby Johnson</Name>
+          <Image alt="" src ="/images/Excom_23/Anjitha Raj.jpg" />
+            <Name>Anjitha Raj</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -199,20 +199,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Vishnu_IAS.png" />
-            <Name>Vishnu M</Name>
+            <Image alt="" src="/images/Excom_23/Swathy Sekhar.jpg" />
+            <Name>Swathy Sekhar</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom/Swathi.png" />
-            <Name>Swathy Sekhar</Name>
+            <Image alt="" src ="/images/Excom_23/Akash G Nair.jpg" />
+            <Name>Akash G Nair</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom/Yadhu.png" />
-            <Name>Yadhu R Nair</Name>
+          <Image alt="" src ="/images/Excom_23/Rohan kurian Abraham.jpg" />
+            <Name>Rohan kurian Abraham</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -224,8 +224,8 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Iqbal.png" />
-            <Name>Muhammed Iqbal</Name>
+            <Image alt="" src="/images/Excom_23/Ravisankar V.jpg" />
+            <Name>Ravisankar V</Name>
 <Position>SIGHT Coordinator</Position>
 
           </Member>
