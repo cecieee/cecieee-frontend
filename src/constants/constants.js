@@ -15,8 +15,8 @@ export const MenuBarData = [
 
     subNav: [
       {
-        title: 'ExCom 2022',
-        path: '/about/execom2022',
+        title: 'ExCom 2023',
+        path: '/about/execom2023',
         
       },
       {
