@@ -51,8 +51,8 @@ export default function About() {
         <UnderLine color={"blue"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom2020/Iqbal.jpg" />
-            <Name>Muhammed Iqbal</Name>
+            <Image alt="" src="/images/Excom_23/Ravisankar V.jpg" />
+            <Name>Ravisankar V</Name>
 <Position>SIGHT Coordinator</Position>
 
           </Member>

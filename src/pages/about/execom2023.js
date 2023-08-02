@@ -83,7 +83,7 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-            <Image alt="" src ="" />
+            <Image alt="" src ="/images/Excom_23/Jyothika.png" />
             <Name>Jyothika Dileepkumar</Name>
 <Position>Vice Chairperson</Position>
 

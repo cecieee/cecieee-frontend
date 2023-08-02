@@ -7,7 +7,6 @@ const ChapterElement = ()=>(
         <Link href="/ras" passHref><Elements>Robotics and Automation Society</Elements></Link>
         <Link href="/pes" passHref><Elements>Power and Energy Society</Elements></Link>
         <Link href="/ims" passHref><Elements>Instrumentation and Measurement Society</Elements></Link>
-        <Link href="/sscs" passHref><Elements>Solid State Circuit Society</Elements></Link>
         <Link href="/ias" passHref><Elements>Industry Applications Society</Elements></Link>
         <Link href="/sight" passHref><Elements>IEEE SIGHT</Elements></Link>
         <Link href="/wie" passHref><Elements>WIE</Elements></Link>
