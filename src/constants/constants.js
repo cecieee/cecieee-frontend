@@ -9,7 +9,7 @@ export const MenuBarData = [
       },
   {
     title: 'About Us',
-    path: '/about',
+    path: '/about/index',
     iconClosed: <RiIcons.RiArrowDownSFill color="white"/>,
     iconOpened: <RiIcons.RiArrowUpSFill color="white"/>,
 

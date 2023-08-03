@@ -51,19 +51,19 @@ export default function About() {
         <UnderLine color={"blue"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Suzanne.png"/>
+            <Image alt="" src="/images/ExCom_23/Suzanne james.webp"/>
             <Name>Suzanne James</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="images/Excom_23/Jyothika.png" />
+            <Image alt="" src ="images/Excom_23/Jyothika.webp" />
             <Name>Jyothika Dileepkumar</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Basim Aslam.jpeg" />
+          <Image alt="" src ="/images/ExCom_23/Basim Aslam.webp" />
             <Name>Basim Aslam</Name>
 <Position>Secretary</Position>
 

@@ -17,55 +17,55 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
           <Member>
-            <Image alt="" src="/images/Excom_23/Sajad.jpg" />
+            <Image alt="" src="/images/Excom_23/Sajad.webp" />
             <Name>Sajad S</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom_23/Agna John.jpg" />
+            <Image alt="" src ="/images/ExCom_23/Agna John.webp" />
             <Name>Agna John</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Kripa MAriya Mathews.jpg" />
+          <Image alt="" src ="/images/ExCom_23/Kripa MAriya Mathews.webp" />
             <Name>Kripa Maria Mathews</Name>
 <Position>Secretary</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom/Vishnu_LINK.png" />
+          <Image alt="" src ="/images/ExCom_23/Vishnu_LINK.webp" />
             <Name>Vishnu Pranav K S</Name>
 <Position>Treasurer</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Esther Varghese.jpg" />
+          <Image alt="" src ="/images/ExCom_23/Esther Varghese.webp" />
             <Name>Esther Varghese</Name>
 <Position>Joint Secretary</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Christo Peter.jpg" />
+          <Image alt="" src ="/images/ExCom_23/Christo Peter.webp" />
             <Name>Christo Peter</Name>
 <Position>Link Representative</Position>
           </Member>
 
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Dona Binu.jpg" />
+          <Image alt="" src ="/images/ExCom_23/Dona Binu.webp" />
             <Name>Dona Binu</Name>
 <Position>EC Coordinator</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Nived G.jpg" />
+          <Image alt="" src ="/images/ExCom_23/NivedG.webp" />
             <Name>Nived G</Name>
 <Position>Webmaster</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Vinayak g.jpg" />
+          <Image alt="" src ="/images/Excom_23/VINAYAK-G.webp" />
             <Name>Vinayak G</Name>
 <Position>Membership Development Chair</Position>
           </Member>
@@ -77,19 +77,19 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Suzanne.png"/>
+            <Image alt="" src="/images/ExCom_23/Suzanne James.webp"/>
             <Name>Suzanne James</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Jyothika.png" />
+            <Image alt="" src ="/images/Excom_23/Jyothika.webp" />
             <Name>Jyothika Dileepkumar</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Basim Aslam.jpeg" />
+          <Image alt="" src ="/images/ExCom_23/Basim Aslam.webp" />
             <Name>Basim Aslam</Name>
 <Position>Secretary</Position>
 
@@ -101,19 +101,19 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/ExCom/Malavika.png" />
+            <Image alt="" src="/images/ExCom_23/Malavika P Nair_.webp" />
             <Name>Malavika P Nair</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/ExCom_23/Sooraj SK .jpg" />
+            <Image alt="" src ="/images/ExCom_23/Sooraj SK .webp" />
             <Name>Sooraj S K</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/ExCom_23/Navya Rajan_.jpg" />
+          <Image alt="" src ="/images/ExCom_23/Navya Rajan_.webp" />
             <Name>Navya Rajan</Name>
 <Position>Secretary</Position>
 
@@ -126,19 +126,19 @@ export default function ExeCom2020() {
         <UnderLine  color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Nandana Suresh.jpg" />
+            <Image alt="" src="/images/Excom_23/Nandana Suresh.webp" />
             <Name>Nandana Suresh</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Sreyas Jayachandran.png" />
+            <Image alt="" src ="/images/Excom_23/Sreyas Jayachandran.webp" />
             <Name>Sreyas Jayachandran</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_23/Aleesha Thomas_.jpg" />
+          <Image alt="" src ="/images/Excom_23/Aleesha Thomas_.webp" />
             <Name>Aleesha Thomas</Name>
 <Position>Secretary</Position>
 
@@ -150,19 +150,19 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Aryananda S.jpg" />
+            <Image alt="" src="/images/Excom_23/Aryananda S.webp" />
             <Name>Aryananda S</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Alan George Cheriyan.jpg" />
+            <Image alt="" src ="/images/Excom_23/Alan George_Cheriyan.webp" />
             <Name>Alan George Cheriyan</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_23/Neeraj Kumar S.jpeg" />
+          <Image alt="" src ="/images/Excom_23/Neeraj-Kumar-S.webp" />
             <Name>Neeraj Kumar S</Name>
 <Position>Secretary</Position>
 
@@ -175,19 +175,19 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Gouri M Menon.png" />
+            <Image alt="" src="/images/Excom_23/Gouri M Menon.webp" />
             <Name>Gouri M Menon</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Vrindha Vinod_.jpg" />
+            <Image alt="" src ="/images/Excom_23/Vrindha-Vinod_.webp" />
             <Name>Vrindha Vinod</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_23/Anjitha Raj.jpg" />
+          <Image alt="" src ="/images/Excom_23/Anjitha Raj.webp" />
             <Name>Anjitha Raj</Name>
 <Position>Secretary</Position>
 
@@ -199,19 +199,19 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Swathy Sekhar.jpg" />
+            <Image alt="" src="/images/Excom_23/Swathy-Sekhar.webp" />
             <Name>Swathy Sekhar</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Akash G Nair.jpg" />
+            <Image alt="" src ="/images/Excom_23/Akash  G Nair.webp" />
             <Name>Akash G Nair</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_23/Rohan kurian Abraham.jpg" />
+          <Image alt="" src ="/images/Excom_23/Rohan-kurian-Abraham.webp" />
             <Name>Rohan kurian Abraham</Name>
 <Position>Secretary</Position>
 
@@ -224,7 +224,7 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Ravisankar V.jpg" />
+            <Image alt="" src="/images/Excom_23/Ravisankar-V.webp" />
             <Name>Ravisankar V</Name>
 <Position>SIGHT Coordinator</Position>
 
@@ -266,6 +266,7 @@ const Image = styled.img`
   border: 3px solid ${props => props.border};
 	border-radius: 50%;
 	padding: 12px;
+  object-fit: cover;
   `;
 
 
