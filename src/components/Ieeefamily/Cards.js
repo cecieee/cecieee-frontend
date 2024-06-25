@@ -10,9 +10,10 @@ function Cards() {
             <Card logo="ias-logo"/>
             <Card logo="wie-logo"/>
             <Card logo="pes-logo"/>
-            <Card logo="ims-logo"/>
+            {/* <Card logo="ims-logo"/> */}
             <Card logo="sight-logo"/>
-            <Card logo="sscs-logo"/>
+            <Card logo="sps-logo"/>
+            {/* <Card logo="sscs-logo"/> */}
         </Layout>
     )
 }
