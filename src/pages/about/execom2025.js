@@ -15,136 +15,6 @@ export default function ExeCom2020() {
         <center>
         <SocietyHead>IEEE SB CEC</SocietyHead>
         <UnderLine color={"#0066a1"} />
-        {/* 
-        <Container1>
-          <Member>
-            <Image alt="" src="/images/Excom_25/Sajad.webp" />
-            <Name>Sajad S</Name>
-<Position>Chairperson</Position>
-
-          </Member>
-          <Member>
-            <Image alt="" src ="/images/ExCom_25/Agna John.webp" />
-            <Name>Agna John</Name>
-<Position>Vice Chairperson</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/Kripa MAriya Mathews.webp" />
-            <Name>Kripa Maria Mathews</Name>
-<Position>Secretary</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/Vishnu_LINK.webp" />
-            <Name>Vishnu Pranav K S</Name>
-<Position>Treasurer</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/Esther Varghese.webp" />
-            <Name>Esther Varghese</Name>
-<Position>Joint Secretary</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/Christo Peter.webp" />
-            <Name>Christo Peter</Name>
-<Position>Link Representative</Position>
-          </Member>
-
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/Dona Binu.webp" />
-            <Name>Dona Binu</Name>
-<Position>EC Coordinator</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/NivedG.webp" />
-            <Name>Nived G</Name>
-<Position>Webmaster</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/Excom_25/VINAYAK-G.webp" />
-            <Name>Vinayak G</Name>
-<Position>Membership Development Chair</Position>
-          </Member>
-
-        </Container1>
-        <br/><br/><br/><br/>
-        <Section>
-        <SocietyHead>CS Chapter</SocietyHead>
-        <UnderLine color={"#0066a1"} />
-        <Container1>
-        <Member>
-            <Image alt="" src="/images/ExCom_25/Suzanne James.webp"/>
-            <Name>Suzanne James</Name>
-<Position>Chairperson</Position>
-
-          </Member>
-          <Member>
-            <Image alt="" src ="/images/Excom_25/Jyothika.webp" />
-            <Name>Jyothika Dileepkumar</Name>
-<Position>Vice Chairperson</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/Basim Aslam.webp" />
-            <Name>Basim Aslam</Name>
-<Position>Secretary</Position>
-
-          </Member>
-        </Container1></Section>
-
-        <br/><br/><br/><br/>
-        <SocietyHead>IMS Chapter</SocietyHead>
-        <UnderLine color={"#0066a1"} />
-        <Container1>
-        <Member>
-            <Image alt="" src="/images/ExCom_25/Malavika P Nair_.webp" />
-            <Name>Malavika P Nair</Name>
-<Position>Chairperson</Position>
-
-          </Member>
-          <Member>
-            <Image alt="" src ="/images/ExCom_25/Sooraj SK .webp" />
-            <Name>Sooraj S K</Name>
-<Position>Vice Chairperson</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/ExCom_25/Navya Rajan_.webp" />
-            <Name>Navya Rajan</Name>
-<Position>Secretary</Position>
-
-          </Member>
-        </Container1>
-
-        <br/><br/><br/><br/>
-        <Section>
-        <SocietyHead>PES Chapter</SocietyHead>
-        <UnderLine  color={"#0066a1"} />
-        <Container1>
-        <Member>
-            <Image alt="" src="/images/Excom_25/Nandana Suresh.webp" />
-            <Name>Nandana Suresh</Name>
-<Position>Chairperson</Position>
-
-          </Member>
-          <Member>
-            <Image alt="" src ="/images/Excom_25/Sreyas Jayachandran.webp" />
-            <Name>Sreyas Jayachandran</Name>
-<Position>Vice Chairperson</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/Excom_25/Aleesha Thomas_.webp" />
-            <Name>Aleesha Thomas</Name>
-<Position>Secretary</Position>
-
-          </Member>
-        </Container1></Section> */}
 
         <br/><br/><br/><br/>
         <SocietyHead>RAS Chapter</SocietyHead>
@@ -220,6 +90,30 @@ export default function ExeCom2020() {
 
         <br/><br/><br/><br/>
         <Section>
+        <SocietyHead>SPS Chapter</SocietyHead>
+        <UnderLine color={"#0066a1"} />
+        <Container1>
+        <Member>
+            <Image alt="" src="/images/Excom_25/Vaishnavi_R.webp" />
+            <Name>Vaishnavi R</Name>
+<Position>Chairperson</Position>
+
+          </Member>
+          <Member>
+            <Image alt="" src ="/images/Excom_25/Gayatri_Gireesan_Nair.webp" />
+            <Name>Gayatri Gireesan Nair</Name>
+<Position>Vice Chairperson</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Akhil_Ajay.webp" />
+            <Name>Akhil Ajay</Name>
+<Position>Secretary</Position>
+
+          </Member>          
+        </Container1></Section>
+        <br/><br/><br/><br/>
+        <Section>
         <SocietyHead>IEEE SIGHT</SocietyHead>
         <UnderLine color={"#0066a1"} />
         <Container1>
@@ -243,30 +137,6 @@ export default function ExeCom2020() {
           </Member>          
         </Container1></Section>
 
-        <br/><br/><br/><br/>
-        <Section>
-        <SocietyHead>IEEE SPS</SocietyHead>
-        <UnderLine color={"#0066a1"} />
-        <Container1>
-        <Member>
-            <Image alt="" src="/images/Excom_25/Vaishnavi_R.webp" />
-            <Name>Vaishnavi R</Name>
-<Position>Chairperson</Position>
-
-          </Member>
-          <Member>
-            <Image alt="" src ="/images/Excom_25/Gayatri_Gireesan_Nair.webp" />
-            <Name>Gayatri Gireesan Nair</Name>
-<Position>Vice Chairperson</Position>
-
-          </Member>
-          <Member>
-          <Image alt="" src ="/images/Excom_25/Akhil_Ajay.webp" />
-            <Name>Akhil Ajay</Name>
-<Position>Secretary</Position>
-
-          </Member>          
-        </Container1></Section>
         
        
         </center>
