@@ -1,5 +1,7 @@
 import React from "react";
-import Lottie from "react-lottie";
+import dynamic from "next/dynamic";
+
+const Lottie = dynamic(() => import("react-lottie"), { ssr: false });
 
 export default function LottieAnimation({ lotti, width, height }) {
   const defaultOptions = {
@@ -16,4 +18,4 @@ export default function LottieAnimation({ lotti, width, height }) {
       <Lottie options={defaultOptions} height={height} width={width} />
     </div>
   );
-};
+}

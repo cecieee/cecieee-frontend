@@ -125,30 +125,26 @@ export default function ExeCom2020() {
             <Name>Harisankar A</Name>
             <Position>Secretary</Position>
           </Member>
-        </Container1></Section>
-
-        {/* TODO: Add Remaining Chapters */}
-
-        {/*
+            </Container1></Section>
         <br/><br/><br/><br/>
-        <SocietyHead>RAS Chapter</SocietyHead>
+          <SocietyHead>RAS Chapter</SocietyHead>
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Aryananda S.webp" />
-            <Name>Aryananda S</Name>
+            <Image alt="" src="/images/Excom_24/Alan George Cheriyan.JPG" />
+            <Name>Alan George Cheriyan</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Alan George_Cheriyan.webp" />
-            <Name>Alan George Cheriyan</Name>
+            <Image alt="" src ="/images/Excom_24/Ashna sunil .JPG" />
+            <Name>Ashna Sunil</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_23/Neeraj-Kumar-S.webp" />
-            <Name>Neeraj Kumar S</Name>
+          <Image alt="" src ="/images/Excom_24/Mark J Philip.JPG" />
+            <Name>Mark J Philip</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -160,20 +156,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Gouri M Menon.webp" />
-            <Name>Gouri M Menon</Name>
+            <Image alt="" src="/images/Excom_24/Vrindha Vinod .jpg" />
+            <Name>Vrindha Vinod</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Vrindha-Vinod_.webp" />
-            <Name>Vrindha Vinod</Name>
+            <Image alt="" src ="/images/Excom_24/Richa Anna George .webp" />
+            <Name>Richa Anna George</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_23/Anjitha Raj.webp" />
-            <Name>Anjitha Raj</Name>
+          <Image alt="" src ="/images/Excom_24/Swetha Saira John.JPG" />
+            <Name>Swetha Saira John</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -184,41 +180,50 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Swathy-Sekhar.webp" />
-            <Name>Swathy Sekhar</Name>
+            <Image alt="" src="/images/Excom_24/Akash G Nair .JPG" />
+            <Name>Akash G Nair</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_23/Akash  G Nair.webp" />
-            <Name>Akash G Nair</Name>
+            <Image alt="" src ="/images/Excom_24/Archana Krishna-1.JPG" />
+            <Name>Archana Krishna</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_23/Rohan-kurian-Abraham.webp" />
-            <Name>Rohan kurian Abraham</Name>
+          <Image alt="" src ="/images/Excom_24/Shweta Liju.JPG" />
+            <Name>Shweta Liju</Name>
 <Position>Secretary</Position>
 
           </Member>
-        </Container1> 
+        </Container1>
+
         <br/><br/><br/><br/>
         <Section>
         <SocietyHead>IEEE SIGHT</SocietyHead>
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_23/Ravisankar-V.webp" />
-            <Name>Ravisankar V</Name>
-<Position>SIGHT Coordinator</Position>
+            <Image alt="" src="/images/Excom_24/Muhammed Abnas.JPG" />
+            <Name>Muhammed Abnas</Name>
+<Position>Chairperson</Position>
+
+          </Member>
+        <Member>
+            <Image alt="" src ="/images/Excom_24/Megha Aji.JPG" />
+            <Name>Megha Aji</Name>
+<Position>Vice Chairperson</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_24/Manas Ravi Chandran.JPG" />
+            <Name>Manas Ravi Chandran</Name>
+<Position>Secretary</Position>
 
           </Member>
           
-        </Container1>
-        
-        </Section> */}
-        
-       
+        </Container1></Section>
         </center>
           <Footer/>
         </Main>
