@@ -127,7 +127,7 @@ export default function ExeCom2020() {
         <UnderLine  color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Amal_Rosh.jpg" />
+            <Image alt="" src="/images/Excom_25/Amal_Rosh.webp" />
             <Name>Amal Rosh</Name>
 <Position>Chairperson</Position>
 
