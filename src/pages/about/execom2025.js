@@ -30,19 +30,19 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Gauri_EVB.webp" />
+          <Image alt="" src ="/images/Excom_25/Gauri_EVB.jpg" />
             <Name>Gauri E V B</Name>
 <Position>Secretary</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="public/images/Excom_25/Jez_Thomas_P_Kurien.webp" />
+          <Image alt="" src ="/images/Excom_25/Jez_Thomas_P_Kurien.jpg" />
             <Name>Jez Thomas P Kurien</Name>
 <Position>Treasurer</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Aadikrishna_BM.webp" />
+          <Image alt="" src ="/images/Excom_25/Aadikrishna_BM.jpg" />
             <Name>Aadikrishna B M</Name>
 <Position>Joint Secretary</Position>
 
@@ -66,7 +66,7 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Siddharth_R.webp" />
+          <Image alt="" src ="/images/Excom_25/Siddharth_R.jpg" />
             <Name>Siddarth R</Name>
 <Position>Membership Development Chair</Position>
           </Member>
@@ -108,13 +108,13 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/HARSHA_H.webp" />
+            <Image alt="" src ="/images/Excom_25/HARSHA_H.jpg" />
             <Name>Harsha H</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Adithya_S.webp" />
+          <Image alt="" src ="/images/Excom_25/Adithya_S.jpg" />
             <Name>Adithya S</Name>
 <Position>Secretary</Position>
 
@@ -127,13 +127,13 @@ export default function ExeCom2020() {
         <UnderLine  color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Amal_Rosh.webp" />
+            <Image alt="" src="/images/Excom_25/Amal_Rosh.jpg" />
             <Name>Amal Rosh</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Jaysankar_H.webp" />
+            <Image alt="" src ="/images/Excom_25/Jaysankar_H.jpg" />
             <Name>Jaysankar H</Name>
 <Position>Vice Chairperson</Position>
 
