@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "next build && next export",
     "start": "next start",
     "lint": "next lint"
@@ -24,5 +24,9 @@
   "devDependencies": {
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/cecieee/cecieee-frontend.git",
+  "author": "Aswin <aswina.kumar.std@gmail.com>",
+  "license": "MIT"
 }
