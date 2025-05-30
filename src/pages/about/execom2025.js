@@ -15,8 +15,137 @@ export default function ExeCom2020() {
         <center>
         <SocietyHead>IEEE SB CEC</SocietyHead>
         <UnderLine color={"#0066a1"} />
+        
+        <Container1>
+          <Member>
+            <Image alt="" src="/images/Excom_25/Shijin_Abraham.webp" />
+            <Name>Shijin Abraham</Name>
+<Position>Chairperson</Position>
+
+          </Member>
+          <Member>
+            <Image alt="" src ="/images/Excom_25/Afrah_Quamar.webp" />
+            <Name>Afrah Quamar</Name>
+<Position>Vice Chairperson</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Gauri_EVB.jpg" />
+            <Name>Gauri E V B</Name>
+<Position>Secretary</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Jez_Thomas_P_Kurien.jpg" />
+            <Name>Jez Thomas P Kurien</Name>
+<Position>Treasurer</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Aadikrishna_BM.jpg" />
+            <Name>Aadikrishna B M</Name>
+<Position>Joint Secretary</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Bhavesh_Sanjay.webp" />
+            <Name>Bhavesh Sanjay</Name>
+<Position>Link Representative</Position>
+          </Member>
+
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Sree_Parvathi_MJ.webp" />
+            <Name>Sreeparvathy M J</Name>
+<Position>EC Coordinator</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/HARIKRISHNA_A.webp" />
+            <Name>Harikrishna A</Name>
+<Position>Webmaster</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Siddharth_R.jpg" />
+            <Name>Siddarth R</Name>
+<Position>Membership Development Chair</Position>
+          </Member>
+
+        </Container1>
+        <br/><br/><br/><br/>
+        <Section>
+        <SocietyHead>CS Chapter</SocietyHead>
+        <UnderLine color={"#0066a1"} />
+        <Container1>
+        <Member>
+            <Image alt="" src="/images/Excom_25/Pranav_Das.webp"/>
+            <Name>Pranav Das</Name>
+<Position>Chairperson</Position>
+
+          </Member>
+          <Member>
+            <Image alt="" src ="/images/Excom_25/Arunraj_V.webp" />
+            <Name>Arunraj V </Name>
+<Position>Vice Chairperson</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Shreya_Vijayan.webp" />
+            <Name>Shreya Vijayan</Name>
+<Position>Secretary</Position>
+
+          </Member>
+        </Container1></Section>
 
         <br/><br/><br/><br/>
+        <SocietyHead>SSCS Chapter</SocietyHead>
+        <UnderLine color={"#0066a1"} />
+        <Container1>
+        <Member>
+            <Image alt="" src="/images/Excom_25/Devanarayan_V.webp" />
+            <Name>Devanaryanan V</Name>
+<Position>Chairperson</Position>
+
+          </Member>
+          <Member>
+            <Image alt="" src ="/images/Excom_25/HARSHA_H.jpg" />
+            <Name>Harsha H</Name>
+<Position>Vice Chairperson</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Adithya_S.jpg" />
+            <Name>Adithya S</Name>
+<Position>Secretary</Position>
+
+          </Member>
+        </Container1>
+
+        <br/><br/><br/><br/>
+        <Section>
+        <SocietyHead>PES Chapter</SocietyHead>
+        <UnderLine  color={"#0066a1"} />
+        <Container1>
+        <Member>
+            <Image alt="" src="/images/Excom_25/Amal_Rosh.jpg" />
+            <Name>Amal Rosh</Name>
+<Position>Chairperson</Position>
+
+          </Member>
+          <Member>
+            <Image alt="" src ="/images/Excom_25/Jaysankar_H.jpg" />
+            <Name>Jaysankar H</Name>
+<Position>Vice Chairperson</Position>
+
+          </Member>
+          <Member>
+          <Image alt="" src ="/images/Excom_25/Gayathri_J.webp" />
+            <Name>Gayathri J</Name>
+<Position>Secretary</Position>
+
+          </Member>
+            </Container1></Section>            
+          <br/><br/><br/><br/>
         <SocietyHead>RAS Chapter</SocietyHead>
         <UnderLine color={"#0066a1"} />
         <Container1>
@@ -135,9 +264,7 @@ export default function ExeCom2020() {
 
           </Member>          
         </Container1>
-
-        
-       
+          
         </center>
           <Footer/>
         </Main>
