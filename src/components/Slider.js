@@ -1,40 +1,64 @@
 /* eslint-disable react/jsx-key */
 import React from "react";
-import styled from 'styled-components';
-import Image from 'next/image'
-import AliceCarousel from 'react-alice-carousel';
+import styled from "styled-components";
+import AliceCarousel from "react-alice-carousel";
 import "react-alice-carousel/lib/alice-carousel.css";
-import level1 from "../../public/images/carousal-images/level-1.jpg"
-import level2 from "../../public/images/carousal-images/level-2.jpg"
-import level3 from "../../public/images/carousal-images/level-3.jpg"
-import level4 from "../../public/images/carousal-images/level-4.jpg"
-import level5 from "../../public/images/carousal-images/level-5.jpg"
-
 
 const handleDragStart = (e) => e.preventDefault();
 
-const items = [
-        <Image  src={level1} alt="AKPSC IEEE" className="sliderimg" onDragStart={handleDragStart} />,
-        <Image src={level2} alt="" className="sliderimg" onDragStart={handleDragStart}  />,
-        <Image alt="" src={level3} className="sliderimg" onDragStart={handleDragStart}  />,
-        <Image alt="" src={level4} className="sliderimg"  onDragStart={handleDragStart}/>,
-        <Image alt="" src={level5} className="sliderimg"  onDragStart={handleDragStart}/>
-  ];
+const StyledImg = styled.img`
+  width: 100%;
+  height: fit-content;
+  object-fit: cover;
+  border-radius: 10px;
+`;
 
-export function Slider(){
-    return(
-        <Div className="slider"><AliceCarousel mouseTracking  autoPlay autoPlayInterval="5000" animationType="fadeout" disableButtonsControls infinite autoPlayStrategy="none" items={items} >
-        
-</AliceCarousel></Div>
-        
-    );
+const items = [
+  <StyledImg
+    src="/images/carousal-images/level1.jpg"
+    alt="AKPSC IEEE"
+    onDragStart={handleDragStart}
+  />,
+  <StyledImg
+    src="/images/carousal-images/level2.jpg"
+    alt=""
+    onDragStart={handleDragStart}
+  />,
+  <StyledImg
+    src="/images/carousal-images/level3.jpg"
+    alt=""
+    onDragStart={handleDragStart}
+  />,
+  <StyledImg
+    src="/images/carousal-images/level4.jpg"
+    alt=""
+    onDragStart={handleDragStart}
+  />,
+  <StyledImg
+    src="/images/carousal-images/level5.jpg"
+    alt=""
+    onDragStart={handleDragStart}
+  />,
+];
+
+export function Slider() {
+  return (
+    <Div className="slider">
+      <AliceCarousel
+        mouseTracking
+        autoPlay
+        autoPlayInterval="5000"
+        animationType="fadeout"
+        disableButtonsControls
+        infinite
+        autoPlayStrategy="none"
+        items={items}
+      ></AliceCarousel>
+    </Div>
+  );
 }
 
 const Div = styled.div`
-    
-
-    @media ${(props) => props.theme.breakpoints.sm}{
-    
-    }
+  @media ${(props) => props.theme.breakpoints.sm} {
+  }
 `;
-
