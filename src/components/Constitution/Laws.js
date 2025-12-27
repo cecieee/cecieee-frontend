@@ -25,7 +25,7 @@ function Laws() {
                     <li><Sub>F.</Sub>  SB Treasurer</li>
                     <li><Sub>G.</Sub>  All Society Advisors, Chairs, Vice-Chairs and Secretaries</li>
                     <li><Sub>H.</Sub>  All Affinity Group Advisors, Chairs, Vice-Chairs and Secretaries</li>
-                    <li><Sub>I.</Sub>  Coordinators of all Special Interest Groups</li>
+                    <li><Sub>I.</Sub>  All Special Interest Group Advisors, Chairs, Vice-Chairs, Secretaries and Project Coordinators.</li>
                     <li><Sub>J.</Sub>  Webmaster</li>
                     <li><Sub>K.</Sub>  Electronic Communication Coordinator</li>
                     <li><Sub>L.</Sub>  Membership Development Coordinator</li>
@@ -44,7 +44,7 @@ function Laws() {
                     <li><Sub>B.</Sub>  If a member works in a manner derogatory to the post.</li>
                     <li><Sub>C.</Sub>  For impeachment, a notice must be sent to the respective ExCom member and a fair chance must be given to explain themselves before ExCom and if still 2/3rd of the members of the ExCom support impeachment, he/she shall be removed from the post.</li>
                     <li><Sub>D.</Sub>  For impeachment, Counselor and at least two SBC/AG/Society advisors must be present in the meeting.</li>
-                    <li><Sub>E.</Sub>  Respective Society/AG advisor must be present in the ExCom meeting to impeach the Society/AG ExCom member.</li>
+                    <li><Sub>E.</Sub>  Respective Society/AG/SIG advisor must be present in the ExCom meeting to impeach the Society/AG/SIG ExCom member.</li>
                 </SubList>
                 </li>
                 <Article>Article III: Roles and Responsibilities</Article>
@@ -112,7 +112,7 @@ function Laws() {
                         <li><Sub>I.</Sub>  Assist with promoting activities to other faculty members.</li>
                     </SubList>
                     </li>
-                    <li><Sub>Sec. 7. Chapter/Affinity Group Chair: <br /><br /></Sub>
+                    <li><Sub>Sec. 7. Chapter / Affinity Group / Special Interest Group Chair: <br /><br /></Sub>
                     <SubList>
                         <li><Sub>A.</Sub> Preside at meetings of the Chapter and the Chapter Executive Committee.</li>
                         <li><Sub>B.</Sub>  Operate the Chapter to maximize the satisfaction of Chapter member needs with the resources available.</li>
@@ -126,26 +126,26 @@ function Laws() {
                         <li><Sub>J.</Sub>  Transfer Chapter records to the new Chapter Chair at the end of the year.</li>
                     </SubList>
                     </li>
-                    <li><Sub>Sec. 8. Chapter/Affinity Group Vice-Chair: <br /><br /></Sub>
+                    <li><Sub>Sec. 8. Chapter / Affinity Group / Special Interest Group Vice Chair: <br /><br /></Sub>
                     <SubList>
-                        <li><Sub>A.</Sub> Assist the SBC/AG Chair in all SBC/AG affairs.</li>
-                        <li><Sub>B.</Sub>  Perform all functions of the SBC/AG Chair in his/her absence or upon request.</li>
+                        <li><Sub>A.</Sub> Assist the SBC/AG/SIG Chair in all SBC/AG/SIG affairs.</li>
+                        <li><Sub>B.</Sub>  Perform all functions of the SBC/AG/SIG Chair in his/her absence or upon request.</li>
                     </SubList>
                     </li>
-                    <li><Sub>Sec. 9. Chapter/Affinity Group Secretary: <br /><br /></Sub>
+                    <li><Sub>Sec. 9. Chapter / Affinity Group / Special Interest Group Secretary: <br /><br /></Sub>
                     <SubList>
-                        <li><Sub>A.</Sub> Serve as the record keeper and historian of the Chapter/Affinity Group. He/she is responsible for maintaining all records of the Chapter/Affinity Group.</li>
+                        <li><Sub>A.</Sub> Serve as the record keeper and historian of the Chapter/Affinity Group/Special Interest Group. He/she is responsible for maintaining all records of the Chapter/Affinity Group/Special Interest Group.</li>
                         <li><Sub>B.</Sub>  Keep detailed minutes of each meeting and submit a detailed report of all events/meetings to the SB Secretary.</li>
-                        <li><Sub>C.</Sub>  Keep track of all correspondences related to the Chapter/Affinity Group and work along with SB Secretary regarding the same.</li>
+                        <li><Sub>C.</Sub>  Keep track of all correspondences related to the Chapter/Affinity Group/Special Interest Group and work along with SB Secretary regarding the same.</li>
                         <li><Sub>D.</Sub>  Work along with SB Treasurer regarding all financial matters.</li>
                         <li><Sub>E.</Sub>  Arrange for an orderly transfer of all records to the incoming Secretary</li>
                         <li><Sub>F.</Sub>  Must follow the IEEE SB Development Calendar.</li>
                     </SubList>
                     </li>
-                    <li><Sub>Sec. 10. Chapter/Affinity Group Advisor: <br /><br /></Sub>
+                    <li><Sub>Sec. 10. Chapter / Affinity Group / Special Interest Group Advisor: <br /><br /></Sub>
                     <SubList>
-                        <li><Sub>A.</Sub> Serves as an Advisor to the Chapter/Affinity Group.</li>
-                        <li><Sub>B.</Sub>  SB Treasurer must coordinate and seek advice from the Chapter/Affinity Group Advisor regarding the financial matters of the Chapter.</li>
+                        <li><Sub>A.</Sub> Serves as an Advisor to the Chapter/Affinity Group/Special Interest Group.</li>
+                        <li><Sub>B.</Sub>  SB Treasurer must coordinate and seek advice from the Chapter/Affinity Group/Special Interest Group Advisor regarding the financial matters of the Chapter.</li>
                     </SubList>
                     </li>
                     <li><Sub>Sec. 11. Membership Development Coordinator: <br /><br /></Sub>
@@ -171,7 +171,7 @@ function Laws() {
                     <SubList>
                         <li><Sub>A.</Sub> To maintain the Student Branch Website.</li>
                         <li><Sub>B.</Sub>  To ensure that all IEEE Guidelines regarding website are adhered to.</li>
-                        <li><Sub>C.</Sub>  Work hand in hand with SB, SBC and AG Secretaries and Electronic Communication Coordinator to ensure that details on the website are updated regularly.</li>
+                        <li><Sub>C.</Sub>  Work hand in hand with SB, SBC, AG and SIG Secretaries and Electronic Communication Coordinator to ensure that details on the website are updated regularly.</li>
                     </SubList>
                     </li>
                     <li><Sub>Sec. 14. LINK Representative: <br /><br /></Sub>
@@ -179,10 +179,11 @@ function Laws() {
                         <li><Sub>A.</Sub> A. LINK Representative shall act as a link between the Student Branch and the LINK.</li>
                     </SubList>
                     </li>
-                    <li><Sub>Sec. 15. Coordinators of all Special Interest Groups: <br /><br /></Sub>
+                    <li><Sub>Sec. 15. Project Coordinator for Special Interest Group: <br /><br /></Sub>
                     <SubList>
-                        <li><Sub>A.</Sub> Coordinate the activities of the particular Special Interest Group within the Student Branch.</li>
-                        <li><Sub>B.</Sub>  Represent the Special Interest Group in IEEE gatherings.</li>
+                        <li><Sub>A.</Sub>  Lead the planning and execution of SIGHT projects, ensuring safe, sustainable implementation in compliance with IEEE guidelines and the IEEE Do No Harm policy.</li>
+                        <li><Sub>B.</Sub>  Identify real community needs by coordinating with local communities, NGOs and relevant stakeholders for effective humanitarian interventions.</li>
+                        <li><Sub>C.</Sub>  Coordinate volunteers and mentors, and prepare necessary plans, milestones and funding documentation for project execution and grants.</li>
                     </SubList>
                     </li>
                     <li><Sub>Sec. 16. Student Branch Mentor: <br /><br /></Sub>
@@ -273,7 +274,7 @@ function Laws() {
             </List>
             <Article>Article XII: Nominations and Appointments</Article>
             <List>
-                <li><Sub>Sec. 1.</Sub>  The nomination committee of the Student Branch consists of Branch Counselor, SBC/AG Advisors, SB Chairperson, SB Secretary and all SBC and AG Chairpersons.</li>
+                <li><Sub>Sec. 1.</Sub>  The nomination committee of the Student Branch consists of Branch Counselor, SBC/AG Advisors, SB Chairperson, SB Secretary and all SBC, AG and SIG Chairpersons.</li>
                 <li><Sub>Sec. 2.</Sub> Nominations to the Student Branch ExCom have to be invited before November 30th of every year.</li>
                 <li><Sub>Sec. 3.</Sub>  During the call for nominations, the year of study of the applicants must be as follows: <br /><br />
                 <SubList>
@@ -281,23 +282,23 @@ function Laws() {
                         <ul>
                             <li>i. SB Vice-Chair</li>
                             <li>ii. SB Joint-Secretary</li>
-                            <li>iii. SBC/AG Vice-Chair</li>
+                            <li>iii. SBC/AG/SIG Vice-Chair</li>
                         </ul>
                         <li><Sub>B.</Sub>  Third Year:</li>
                         <ul>
                             <li>i. SB Chair</li>
                             <li>ii. SB Secretary</li>
                             <li>iii. SB Treasurer</li>
-                            <li>iv. SBC/AG Chair</li>
-                            <li>v. SBC/AG Secretary</li>
-                            <li>vi. Membership Development Coordinator</li>
+                            <li>iv. SBC/AG/SIG Chair</li>
+                            <li>v. Membership Development Coordinator</li>
                         </ul>                    
                         <li><Sub>C.</Sub>   Common (Both second and third years can apply):</li>  
                         <ul>
                             <li>i. Electronic Communication Coordinator</li>
                             <li>ii. LINK Representative</li>
-                            <li>iii. SIGHT Coordinator</li>
-                            <li>iv. Webmaster</li>
+                            <li>iii. Webmaster</li>
+                            <li>iv. SBC/AG/SIG Secretary</li>
+                            <li>v. SIGHT Project Coordinator</li>
                         </ul>
                 </SubList>
                 </li>
