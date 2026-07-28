@@ -175,19 +175,19 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Richa_Anna_George.webp" />
-            <Name>Richa Anna George</Name>
+            <Image alt="" src="/images/Excom_26/Aleena_M.webp" />
+            <Name>Aleena M</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Aleena_M.webp" />
-            <Name>Aleena M</Name>
+            <Image alt="" src ="/images/Excom_26/Sara_Shaji.webp" />
+            <Name>Sara Shaji</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Nandana_Binu.webp" />
+          <Image alt="" src ="/images/Excom_26/Nandana_Binu.webp" />
             <Name>Nandana Binu</Name>
 <Position>Secretary</Position>
 
@@ -199,20 +199,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Archana_Krishna.webp" />
-            <Name>Archana Krishna</Name>
+            <Image alt="" src="/images/Excom_26/Razeen_Riaz.webp" />
+            <Name>Razeen Riaz</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Razeen_Riaz.webp" />
-            <Name>Razeen Riaz</Name>
+            <Image alt="" src ="/images/Excom_26/Abhijith_M_V.webp" />
+            <Name>Abhijith M V</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Shweta_Liju.webp" />
-            <Name>Shwetha Liju</Name>
+          <Image alt="" src ="/images/Excom_26/Persis_Mariyam_John.webp" />
+            <Name>Persis Mariyam John</Name>
 <Position>Secretary</Position>
           </Member>
         </Container1>
@@ -223,20 +223,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Vaishnavi_R.webp" />
-            <Name>Vaishnavi R</Name>
+            <Image alt="" src="/images/Excom_26/Gayatri_Gireesan_Nair.webp" />
+            <Name>Gayatri Gireesan Nair</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Gayatri_Gireesan_Nair.webp" />
-            <Name>Gayatri Gireesan Nair</Name>
+            <Image alt="" src ="/images/Excom_26/Suryakiran_D.webp" />
+            <Name>Suryakiran D</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Akhil_Ajay.webp" />
-            <Name>Akhil Ajay</Name>
+          <Image alt="" src ="/images/Excom_26/Ashwita_Rjesh1.webp" />
+            <Name>Ashwita Rajesh</Name>
 <Position>Secretary</Position>
 
           </Member>          
