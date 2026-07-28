@@ -78,20 +78,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Pranav_Das.webp"/>
-            <Name>Pranav Das</Name>
+            <Image alt="" src="/images/Excom_26/ARUNRAJ.V.webp" />
+            <Name>Arunraj V</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Arunraj_V.webp" />
-            <Name>Arunraj V </Name>
+            <Image alt="" src ="/images/Excom_26/Hrudya_Mohan.webp" />
+            <Name>Hrudya Mohan </Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Shreya_Vijayan.webp" />
-            <Name>Shreya Vijayan</Name>
+          <Image alt="" src ="/images/Excom_26/Neha_Anna_Thomas.webp" />
+            <Name>Neha Anna Thomas</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -246,23 +246,30 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Megha_Aji.webp" />
-            <Name>Megha Aji</Name>
+            <Image alt="" src="/images/Excom_26/Bharath_R.webp" />
+            <Name>Bharath R</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Amal_Krishna.webp" />
-            <Name>Amal Krishna</Name>
+            <Image alt="" src ="/images/Excom_26/Aparna_Suresh.webp" />
+            <Name>Aparna Suresh</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Anusree_Anil.webp" />
-            <Name>Anusree Anil</Name>
+          <Image alt="" src ="/images/Excom_26/Kevin_Johnson_Geno.webp" />
+            <Name>Kevin Johnson Geno</Name>
 <Position>Secretary</Position>
 
-          </Member>          
+          </Member>   
+
+          <Member>
+          <Image alt="" src ="/images/Excom_26/Arjun_V_M.webp" />
+            <Name>Arjun V M</Name>
+<Position>Project Coordinator</Position>
+
+          </Member>        
         </Container1>
           
         </center>
