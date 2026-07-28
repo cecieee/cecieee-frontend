@@ -102,20 +102,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Devanarayan_V.webp" />
-            <Name>Devanaryanan V</Name>
+            <Image alt="" src="/images/Excom_26/Adithyan Manoj.webp" />
+            <Name>Adithyan Manoj</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/HARSHA_H.jpg" />
-            <Name>Harsha H</Name>
+            <Image alt="" src ="/images/Excom_26/Aadithya A H.webp" />
+            <Name>Aadithya A H</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Adithya_S.jpg" />
-            <Name>Adithya S</Name>
+          <Image alt="" src ="/images/Excom_26/Anvita MK.webp" />
+            <Name>Anvita M K</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -127,20 +127,20 @@ export default function ExeCom2020() {
         <UnderLine  color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Amal_Rosh.jpg" />
-            <Name>Amal Rosh</Name>
+            <Image alt="" src="/images/Excom_26/Aswathi km.webp" />
+            <Name>Aswathi K M</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Jaysankar_H.jpg" />
-            <Name>Jaysankar H</Name>
+            <Image alt="" src ="/images/Excom_26/Sravan Shibu.webp" />
+            <Name> Sravan Shibu</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Gayathri_J.webp" />
-            <Name>Gayathri J</Name>
+          <Image alt="" src ="/images/Excom_26/Padmapriya S.webp" />
+            <Name>Padmapriya S</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -150,20 +150,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Ashna_Sunil.webp" />
-            <Name>Ashna Sunil</Name>
+            <Image alt="" src="/images/Excom_26/Rohan Fleny.webp" />
+            <Name>Rohan Fleny</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Rishikesh_J.webp" />
-            <Name>Rishikesh J</Name>
+            <Image alt="" src ="/images/Excom_26/Parvathy Vinayan.webp" />
+            <Name>Parvathy Vinayan</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Vijitha_SR.webp" />
-            <Name>Vijitha S R</Name>
+          <Image alt="" src ="/images/Excom_26/Jotham Koshy Philip.webp" />
+            <Name>Jotham Koshy Philip</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -175,19 +175,19 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Richa_Anna_George.webp" />
-            <Name>Richa Anna George</Name>
+            <Image alt="" src="/images/Excom_26/Aleena_M.webp" />
+            <Name>Aleena M</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Aleena_M.webp" />
-            <Name>Aleena M</Name>
+            <Image alt="" src ="/images/Excom_26/Sara_Shaji.webp" />
+            <Name>Sara Shaji</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Nandana_Binu.webp" />
+          <Image alt="" src ="/images/Excom_26/Nandana_Binu.webp" />
             <Name>Nandana Binu</Name>
 <Position>Secretary</Position>
 
@@ -199,20 +199,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Archana_Krishna.webp" />
-            <Name>Archana Krishna</Name>
+            <Image alt="" src="/images/Excom_26/Razeen_Riaz.webp" />
+            <Name>Razeen Riaz</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Razeen_Riaz.webp" />
-            <Name>Razeen Riaz</Name>
+            <Image alt="" src ="/images/Excom_26/Abhijith_M_V.webp" />
+            <Name>Abhijith M V</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Shweta_Liju.webp" />
-            <Name>Shwetha Liju</Name>
+          <Image alt="" src ="/images/Excom_26/Persis_Mariyam_John.webp" />
+            <Name>Persis Mariyam John</Name>
 <Position>Secretary</Position>
           </Member>
         </Container1>
@@ -223,20 +223,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Vaishnavi_R.webp" />
-            <Name>Vaishnavi R</Name>
+            <Image alt="" src="/images/Excom_26/Gayatri_Gireesan_Nair.webp" />
+            <Name>Gayatri Gireesan Nair</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Gayatri_Gireesan_Nair.webp" />
-            <Name>Gayatri Gireesan Nair</Name>
+            <Image alt="" src ="/images/Excom_26/Suryakiran_D.webp" />
+            <Name>Suryakiran D</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Akhil_Ajay.webp" />
-            <Name>Akhil Ajay</Name>
+          <Image alt="" src ="/images/Excom_26/Ashwita_Rjesh1.webp" />
+            <Name>Ashwita Rajesh</Name>
 <Position>Secretary</Position>
 
           </Member>          
