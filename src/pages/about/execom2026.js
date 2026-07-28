@@ -244,7 +244,8 @@ export default function ExeCom2020() {
         <br/><br/><br/><br/>
         <SocietyHead>IEEE SIGHT</SocietyHead>
         <UnderLine color={"#0066a1"} />
-        <Container1>
+        
+          <SightGrid>
         <Member>
             <Image alt="" src="/images/Excom_26/Bharath_R.webp" />
             <Name>Bharath R</Name>
@@ -269,8 +270,9 @@ export default function ExeCom2020() {
             <Name>Arjun V M</Name>
 <Position>Project Coordinator</Position>
 
-          </Member>        
-        </Container1>
+          </Member>  
+          </SightGrid>      
+        
           
         </center>
           <Footer/>
@@ -285,6 +287,16 @@ const Container1 = styled.div`
   display: grid;
   width: 75%;
   grid-template-columns: repeat(3, 1fr);
+  @media (max-width: 640px) {
+    display: block;
+  }
+`;
+
+const SightGrid = styled.div`
+  display: grid;
+  width: 75%;
+  grid-template-columns: repeat(4, 1fr);
+
   @media (max-width: 640px) {
     display: block;
   }
