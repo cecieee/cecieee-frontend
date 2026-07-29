@@ -30,7 +30,8 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_26/Aadikrishna_B_M.webp" />
+          <Image alt="" src ="/images/Excom_26/Aadikrishna_B_M.webp"
+          style={{ objectPosition: "center 5%" }} />
             <Name>Aadikrishna B M</Name>
 <Position>Secretary</Position>
 
@@ -66,7 +67,8 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_26/Gouri_Rajesh_Pillai.webp" />
+          <Image alt="" src ="/images/Excom_26/Gouri_Rajesh_Pillai.webp"
+          style={{ objectPosition: "center 15%" }} />
             <Name>Gouri Rajesh Pillai</Name>
 <Position>Membership Development Chair</Position>
           </Member>
@@ -321,6 +323,7 @@ const Image = styled.img`
     border-radius: 50%;
     padding: 12px;
   object-fit: cover;
+  object-position: center;
   `;
 
 
