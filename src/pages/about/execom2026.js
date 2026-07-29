@@ -30,7 +30,8 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_26/Aadikrishna_B_M.webp" />
+          <Image alt="" src ="/images/Excom_26/Aadikrishna_B_M.webp"
+          style={{ objectPosition: "center 5%" }} />
             <Name>Aadikrishna B M</Name>
 <Position>Secretary</Position>
 
@@ -66,7 +67,8 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_26/Gouri_Rajesh_Pillai.webp" />
+          <Image alt="" src ="/images/Excom_26/Gouri_Rajesh_Pillai.webp"
+          style={{ objectPosition: "center 15%" }} />
             <Name>Gouri Rajesh Pillai</Name>
 <Position>Membership Development Chair</Position>
           </Member>
@@ -102,20 +104,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Devanarayan_V.webp" />
-            <Name>Devanaryanan V</Name>
+            <Image alt="" src="/images/Excom_26/Adithyan Manoj.webp" />
+            <Name>Adithyan Manoj</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/HARSHA_H.jpg" />
-            <Name>Harsha H</Name>
+            <Image alt="" src ="/images/Excom_26/Aadithya A H.webp" />
+            <Name>Aadithya A H</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Adithya_S.jpg" />
-            <Name>Adithya S</Name>
+          <Image alt="" src ="/images/Excom_26/Anvita MK.webp" />
+            <Name>Anvita M K</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -127,20 +129,20 @@ export default function ExeCom2020() {
         <UnderLine  color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Amal_Rosh.jpg" />
-            <Name>Amal Rosh</Name>
+            <Image alt="" src="/images/Excom_26/Aswathi km.webp" />
+            <Name>Aswathi K M</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Jaysankar_H.jpg" />
-            <Name>Jaysankar H</Name>
+            <Image alt="" src ="/images/Excom_26/Sravan Shibu.webp" />
+            <Name> Sravan Shibu</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Gayathri_J.webp" />
-            <Name>Gayathri J</Name>
+          <Image alt="" src ="/images/Excom_26/Padmapriya S.webp" />
+            <Name>Padmapriya S</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -150,20 +152,20 @@ export default function ExeCom2020() {
         <UnderLine color={"#0066a1"} />
         <Container1>
         <Member>
-            <Image alt="" src="/images/Excom_25/Ashna_Sunil.webp" />
-            <Name>Ashna Sunil</Name>
+            <Image alt="" src="/images/Excom_26/Rohan Fleny.webp" />
+            <Name>Rohan Fleny</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_25/Rishikesh_J.webp" />
-            <Name>Rishikesh J</Name>
+            <Image alt="" src ="/images/Excom_26/Parvathy Vinayan.webp" />
+            <Name>Parvathy Vinayan</Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_25/Vijitha_SR.webp" />
-            <Name>Vijitha S R</Name>
+          <Image alt="" src ="/images/Excom_26/Jotham Koshy Philip.webp" />
+            <Name>Jotham Koshy Philip</Name>
 <Position>Secretary</Position>
 
           </Member>
@@ -244,15 +246,18 @@ export default function ExeCom2020() {
         <br/><br/><br/><br/>
         <SocietyHead>IEEE SIGHT</SocietyHead>
         <UnderLine color={"#0066a1"} />
-        <Container1>
+        
+          <SightGrid>
         <Member>
-            <Image alt="" src="/images/Excom_26/Bharath_R.webp" />
+            <Image alt="" src="/images/Excom_26/Bharath_R.webp" 
+            style={{ objectPosition: "center 5%" }}/>
             <Name>Bharath R</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_26/Aparna_Suresh.webp" />
+            <Image alt="" src ="/images/Excom_26/Aparna_Suresh.webp" 
+            style={{ objectPosition: "center 15%" }}/>
             <Name>Aparna Suresh</Name>
 <Position>Vice Chairperson</Position>
 
@@ -265,12 +270,14 @@ export default function ExeCom2020() {
           </Member>   
 
           <Member>
-          <Image alt="" src ="/images/Excom_26/Arjun_V_M.webp" />
+          <Image alt="" src ="/images/Excom_26/Arjun_V_M.webp"
+          style={{ objectPosition: "center 20%" }} />
             <Name>Arjun V M</Name>
 <Position>Project Coordinator</Position>
 
-          </Member>        
-        </Container1>
+          </Member>  
+          </SightGrid>      
+        
           
         </center>
           <Footer/>
@@ -285,6 +292,16 @@ const Container1 = styled.div`
   display: grid;
   width: 75%;
   grid-template-columns: repeat(3, 1fr);
+  @media (max-width: 640px) {
+    display: block;
+  }
+`;
+
+const SightGrid = styled.div`
+  display: grid;
+  width: 75%;
+  grid-template-columns: repeat(4, 1fr);
+
   @media (max-width: 640px) {
     display: block;
   }
