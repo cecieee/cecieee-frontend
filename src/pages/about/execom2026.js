@@ -248,14 +248,14 @@ export default function ExeCom2020() {
           <SightGrid>
         <Member>
             <Image alt="" src="/images/Excom_26/Bharath_R.webp" 
-            style={{ objectPosition: "center 5%" }}/>
+            style={{ objectPosition: "center 0%" }}/>
             <Name>Bharath R</Name>
 <Position>Chairperson</Position>
 
           </Member>
           <Member>
             <Image alt="" src ="/images/Excom_26/Aparna_Suresh.webp" 
-            style={{ objectPosition: "center 15%" }}/>
+            style={{ objectPosition: "center 100%"}}/>
             <Name>Aparna Suresh</Name>
 <Position>Vice Chairperson</Position>
 
@@ -268,8 +268,8 @@ export default function ExeCom2020() {
           </Member>   
 
           <Member>
-          <Image alt="" src ="/images/Excom_26/Arjun_V_M.webp"
-          style={{ objectPosition: "center 20%" }} />
+          <Image alt="" src ="/images/Excom_26/Arjun_v_m.webp"
+          style={{ objectPosition: "center 0%" }} />
             <Name>Arjun V M</Name>
 <Position>Project Coordinator</Position>
 
