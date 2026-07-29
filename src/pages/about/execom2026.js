@@ -86,13 +86,15 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-            <Image alt="" src ="/images/Excom_26/Hrudya_Mohan.webp" />
+            <Image alt="" src ="/images/Excom_26/Hrudya_Mohan.webp"
+            style={{ objectPosition: "center 100%" }} />
             <Name>Hrudya Mohan </Name>
 <Position>Vice Chairperson</Position>
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_26/Neha_Anna_Thomas.webp" />
+          <Image alt="" src ="/images/Excom_26/Neha_Anna_Thomas.webp" 
+          style={{ objectPosition: "center 100%" }}/>
             <Name>Neha Anna Thomas</Name>
 <Position>Secretary</Position>
 
@@ -257,7 +259,7 @@ export default function ExeCom2020() {
           </Member>
           <Member>
             <Image alt="" src ="/images/Excom_26/Aparna_Suresh.webp" 
-            style={{ objectPosition: "center 100%"}}/>
+            style={{ objectPosition: "center 50%"}}/>
             <Name>Aparna Suresh</Name>
 <Position>Vice Chairperson</Position>
 
