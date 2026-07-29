@@ -306,6 +306,7 @@ const Image = styled.img`
     border-radius: 50%;
     padding: 12px;
   object-fit: cover;
+  object-position: center;
   `;
 
 
