@@ -37,7 +37,8 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_26/Pavithra_A.webp" />
+          <Image alt="" src ="/images/Excom_26/Pavithra_A.webp" 
+          style={{ objectPosition: "center 60%" }}/>
             <Name>Pavithra A</Name>
 <Position>Treasurer</Position>
 
@@ -61,7 +62,8 @@ export default function ExeCom2020() {
 
           </Member>
           <Member>
-          <Image alt="" src ="/images/Excom_26/Alwin_Saji.webp" />
+          <Image alt="" src ="/images/Excom_26/Alwin_Saji.webp" 
+          style={{ objectPosition: "center 30%" }}/>
             <Name>Alwin Saji</Name>
 <Position>Webmaster</Position>
 
