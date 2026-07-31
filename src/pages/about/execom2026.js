@@ -4,7 +4,7 @@ import { Container, Main, Heading1} from '../../styles/HomeStyles';
 import FixedHeader from "@components/FixedHeader";
 import Footer from '../../components/Footer/Footer';
 
-export default function ExeCom2020() {
+export default function ExeCom2026() {
   return (
     <Container>
       <FixedHeader/>
